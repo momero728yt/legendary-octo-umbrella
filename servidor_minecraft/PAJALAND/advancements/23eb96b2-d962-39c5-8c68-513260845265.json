@@ -1,0 +1,20 @@
+{
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2020-06-11 14:33:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2020-06-11 15:20:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2020-06-11 14:33:26 -0300"
+    },
+    "done": false
+  }
+}

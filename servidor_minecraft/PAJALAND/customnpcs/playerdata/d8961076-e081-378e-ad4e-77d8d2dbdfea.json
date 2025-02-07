@@ -1,0 +1,53 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        },
+        {
+            "Points": 1000,
+            "Faction": 1
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "Ramiro562YT",
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "UUID": "d8961076-e081-378e-ad4e-77d8d2dbdfea",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 6
+        },
+        {
+            "Dialog": 7
+        },
+        {
+            "Dialog": 8
+        },
+        {
+            "Dialog": 9
+        },
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 11
+        }
+    ]
+}

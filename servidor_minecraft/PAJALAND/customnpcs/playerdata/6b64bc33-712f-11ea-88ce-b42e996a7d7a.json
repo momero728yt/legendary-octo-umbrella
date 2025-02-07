@@ -1,0 +1,74 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+        {
+            "Transport": 3
+        },
+        {
+            "Transport": 4
+        },
+        {
+            "Transport": 5
+        }
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        },
+        {
+            "Points": 1000,
+            "Faction": 1
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "Momero728YT",
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "UUID": "6b64bc33-712f-11ea-88ce-b42e996a7d7a",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 1
+        },
+        {
+            "Dialog": 2
+        },
+        {
+            "Dialog": 3
+        },
+        {
+            "Dialog": 4
+        },
+        {
+            "Dialog": 6
+        },
+        {
+            "Dialog": 7
+        },
+        {
+            "Dialog": 8
+        },
+        {
+            "Dialog": 9
+        },
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 11
+        }
+    ]
+}
