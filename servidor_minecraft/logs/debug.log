@@ -8109,3 +8109,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Feb2025 23:33:50.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Creative Mode]
 [07Feb2025 23:35:08.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set the weather to clear]
 [07Feb2025 23:35:11.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set the time to 1000]
+[07Feb2025 23:37:55.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
+[07Feb2025 23:37:55.507] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
+[07Feb2025 23:42:55.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
+[07Feb2025 23:42:55.492] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
+[07Feb2025 23:47:55.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
+[07Feb2025 23:47:55.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
+[07Feb2025 23:52:55.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
+[07Feb2025 23:52:55.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
+[07Feb2025 23:57:55.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
+[07Feb2025 23:57:55.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
