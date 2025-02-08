@@ -4617,3 +4617,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Feb2025 22:49:12.498] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EroDragonEx lost connection: Timed out
 [08Feb2025 22:49:12.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EroDragonEx left the game
 [08Feb2025 22:49:12.499] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EroDragonEx
+[08Feb2025 22:50:17.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[08Feb2025 22:50:17.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Feb2025 22:50:17.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Feb2025 22:50:17.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Feb2025 22:50:19.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pagdfgdfgdfg]'/minecraft:overworld
+[08Feb2025 22:50:19.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pagdfgdfgdfg]'/minecraft:the_end
+[08Feb2025 22:50:19.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pagdfgdfgdfg]'/minecraft:the_nether
+[08Feb2025 22:50:19.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pagdfgdfgdfg]'/twilightforest:twilight_forest
+[08Feb2025 22:50:19.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (PAJALAND): All chunks are saved
+[08Feb2025 22:50:19.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Feb2025 22:50:19.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Feb2025 22:50:19.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[08Feb2025 22:50:19.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

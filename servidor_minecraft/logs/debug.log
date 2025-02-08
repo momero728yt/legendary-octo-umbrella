@@ -11647,3 +11647,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Feb2025 22:49:12.499] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of EroDragonEx
 [08Feb2025 22:49:12.499] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EroDragonEx
 [08Feb2025 22:49:12.682] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:50:17.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[08Feb2025 22:50:17.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Feb2025 22:50:17.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Feb2025 22:50:17.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Feb2025 22:50:19.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pagdfgdfgdfg]'/minecraft:overworld
+[08Feb2025 22:50:19.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pagdfgdfgdfg]'/minecraft:the_end
+[08Feb2025 22:50:19.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pagdfgdfgdfg]'/minecraft:the_nether
+[08Feb2025 22:50:19.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pagdfgdfgdfg]'/twilightforest:twilight_forest
+[08Feb2025 22:50:19.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
+[08Feb2025 22:50:19.215] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
+[08Feb2025 22:50:19.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (PAJALAND): All chunks are saved
+[08Feb2025 22:50:19.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Feb2025 22:50:19.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Feb2025 22:50:19.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[08Feb2025 22:50:19.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Feb2025 22:50:19.280] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./PAJALAND/serverconfig
+[08Feb2025 22:50:19.280] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
