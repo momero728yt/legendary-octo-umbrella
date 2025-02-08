@@ -4511,3 +4511,31 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Feb2025 21:00:06.547] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EroDragonEx lost connection: Timed out
 [08Feb2025 21:00:06.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EroDragonEx left the game
 [08Feb2025 21:00:06.547] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EroDragonEx
+[08Feb2025 21:10:32.379] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7ec52bca
+[08Feb2025 21:10:32.390] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EroDragonEx[/127.25.68.214:55041] logged in with entity id 7294 at (145.74960720942448, 76.16326680497954, 350.65056798443777)
+[08Feb2025 21:10:32.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EroDragonEx joined the game
+[08Feb2025 21:10:32.469] [Server thread/INFO] [Jade/]: Syncing config to EroDragonEx (e6991e8b-d28a-3f2b-bae1-e8fb387fa432)
+[08Feb2025 21:10:34.436] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EroDragonEx (18)
+[08Feb2025 21:10:34.437] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EroDragonEx
+[08Feb2025 21:10:42.265] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e6991e8b-d28a-3f2b-bae1-e8fb387fa432
+[08Feb2025 21:10:43.269] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e6991e8b-d28a-3f2b-bae1-e8fb387fa432
+[08Feb2025 21:10:43.270] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EroDragonEx (e6991e8b-d28a-3f2b-bae1-e8fb387fa432) successfully connected to voice chat
+[08Feb2025 21:12:34.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EroDragonEx> .
+[08Feb2025 21:12:43.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EroDragonEx> .
+[08Feb2025 21:13:02.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[08Feb2025 21:13:05.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Creative Mode]
+[08Feb2025 21:15:45.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EroDragonEx has made the advancement [Stay dead]
+[08Feb2025 21:18:31.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported EroDragonEx to 99.500000, 75.000000, 321.500000]
+[08Feb2025 21:19:03.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported EroDragonEx to 99.500000, 75.000000, 321.500000]
+[08Feb2025 21:19:19.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported EroDragonEx to 99.500000, 75.000000, 321.500000]
+[08Feb2025 21:19:31.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[08Feb2025 21:19:40.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Creative Mode]
+[08Feb2025 21:19:51.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported EroDragonEx to 99.500000, 75.000000, 321.500000]
+[08Feb2025 21:19:52.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported EroDragonEx to 99.500000, 75.000000, 321.500000]
+[08Feb2025 21:20:05.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[08Feb2025 21:20:32.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Creative Mode]
+[08Feb2025 21:22:18.228] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[08Feb2025 21:22:18.229] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[08Feb2025 21:22:18.229] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[08Feb2025 21:22:18.229] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[08Feb2025 21:22:18.229] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
