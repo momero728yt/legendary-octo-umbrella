@@ -10718,3 +10718,793 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Feb2025 22:27:26.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set the weather to clear]
 [08Feb2025 22:29:08.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
 [08Feb2025 22:29:08.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
+[08Feb2025 22:31:55.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EroDragonEx lost connection: Timed out
+[08Feb2025 22:31:55.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EroDragonEx left the game
+[08Feb2025 22:31:55.646] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of EroDragonEx
+[08Feb2025 22:31:55.647] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EroDragonEx
+[08Feb2025 22:31:55.741] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:55.782] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:55.785] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:55.801] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:55.804] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:55.813] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:55.819] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:55.822] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:55.832] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:55.838] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:55.879] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:55.888] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:55.911] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:56.098] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:56.172] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:56.185] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:56.188] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:56.191] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:56.216] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:56.219] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:56.225] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:56.241] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:56.401] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:56.420] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:56.434] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:56.435] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:56.457] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:56.526] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:56.529] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:56.554] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:56.762] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:56.778] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:56.803] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:56.887] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:56.897] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:56.900] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:56.962] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:56.984] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:56.987] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.012] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.094] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.106] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.106] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.116] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.125] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.144] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.150] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.159] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.162] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.169] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.175] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.259] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.272] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.272] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.284] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.300] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.325] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.397] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.416] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.453] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.469] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.472] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.478] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.640] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.644] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.647] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.684] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.706] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.734] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.837] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.859] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.928] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.944] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:57.991] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:58.038] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:58.047] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:58.166] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:58.381] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:58.397] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:58.413] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:58.534] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:58.547] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:58.688] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:58.807] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:58.810] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:58.816] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:58.873] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:58.889] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.035] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.048] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.054] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.076] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.092] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.104] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.114] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.120] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.189] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.192] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.267] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.285] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.289] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.317] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.600] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.603] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.606] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.653] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.690] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.711] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.714] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.744] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.747] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.791] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.794] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.797] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.800] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.807] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.835] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.851] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.854] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.857] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.873] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.880] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.883] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.892] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.895] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.898] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.902] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.911] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.918] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.921] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.921] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.927] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.927] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.930] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.934] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.937] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.940] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.943] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.946] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.946] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.953] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.953] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.966] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.978] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.981] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.985] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:31:59.991] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.001] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.064] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.083] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.095] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.204] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.264] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.496] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.568] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.571] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.571] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.574] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.580] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.587] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.590] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.593] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.596] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.596] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.599] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.605] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.608] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.615] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.618] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.621] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.624] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.627] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.630] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.633] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.640] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.643] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.649] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.649] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.652] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.655] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.661] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.665] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.668] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.668] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.671] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.677] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.718] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.736] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.739] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.748] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.748] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.754] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.958] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.967] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.967] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.973] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.976] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.979] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:00.998] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.014] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.017] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.023] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.042] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.048] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.054] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.148] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.157] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.180] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.189] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.208] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.217] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.220] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.226] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.239] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.248] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.258] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.267] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.270] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.273] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.280] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.333] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.336] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.348] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.351] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.358] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.364] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.370] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.395] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.398] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.408] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.430] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.442] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.464] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.480] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.483] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.530] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.623] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.627] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.633] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.652] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.665] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.677] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.695] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.761] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:01.786] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:02.087] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:02.169] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:02.252] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:02.597] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:02.721] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:02.852] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:03.014] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:03.132] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:03.163] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:03.185] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:03.213] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:03.389] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:03.630] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:03.649] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:03.683] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:03.786] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:03.820] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:04.403] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:04.406] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:04.425] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:04.440] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:04.444] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:04.472] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:04.506] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:04.539] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:04.637] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:04.690] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:04.728] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:04.759] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:04.774] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:04.815] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:04.831] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:04.859] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:04.903] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:05.140] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 does not have a secret
+[08Feb2025 22:32:35.006] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 35 messages to dispatch.
+[08Feb2025 22:32:35.022] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 0
+[08Feb2025 22:32:35.072] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[08Feb2025 22:32:35.122] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[08Feb2025 22:32:35.172] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 3
+[08Feb2025 22:32:35.222] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 4
+[08Feb2025 22:32:35.272] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 5
+[08Feb2025 22:32:35.278] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel tacz:handshake with index 0
+[08Feb2025 22:32:35.278] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.tacz.guns.network.message.handshake.Acknowledge
+[08Feb2025 22:32:35.278] [Netty Epoll Server IO #6/DEBUG] [tacz/HANDSHAKE_ACKNOWLEDGE]: Received acknowledgement from client
+[08Feb2025 22:32:35.322] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 6
+[08Feb2025 22:32:35.372] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 7
+[08Feb2025 22:32:35.422] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:tiny_bird_variant' to 'fml:handshake' sequence 8
+[08Feb2025 22:32:35.428] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[08Feb2025 22:32:35.428] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[08Feb2025 22:32:35.428] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [hexerei, skyvillages, mowziesmobs, awesomedungeonend, playeranimator, jei, siegemachines, graveyard, tacz, libraryferret, sophisticatedcore, ageofweapons, xaeroworldmap, citadel, alexsmobs, artifacts, mixinextras, opf, sophisticatedbackpacks, argentina_food_mod, terralith, carryon, knight_quest, cloth_config, forge, thedirtystuff, twilightforest, tlskincape, ricksportalgun, decocraft, minecraft, voicechat, sound_physics_remastered, bettercombat, awesomedungeonnether, jade, creativecore, curios, spartanshields, xaerominimap, gravestone, camera, securitycraft, framedblocks, gobber2, argentinas_delight, worldedit, butchercraft, automobility, architectury, otyacraftengine, mca, simplyswords, iammusicplayer, enhancedcelestials, corgilib, pizzacraft, fallingtree, smallships, expandability, knavesneeds, playerrevive, geckolib3, undead_unleashed]
+[08Feb2025 22:32:35.428] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:cui' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:32:35.428] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Feb2025 22:32:35.428] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Feb2025 22:32:35.428] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[08Feb2025 22:32:35.428] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 22:32:35.428] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pizzacraft:network' : Version test of 'pizzacraft:1' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corgilib:network' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fallingtree:main' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:handshake' : Version test of '1.0.4' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enhancedcelestials:network' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'undead_unleashed:undead_unleashed' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bettercombat:network' : Version test of '1.0' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'argentinas_delight:argentinas_delight' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'automobility:main' : Version test of '0.3' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'decocraft:main' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Version test of '1.0' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1.0' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'knight_quest:knight_quest' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hexerei:channel' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:internal' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hexerei:network' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Feb2025 22:32:35.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.6.1' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ricksportalgun:main' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'opf:main' : Version test of '1.0' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framedblocks:main' : Version test of '2' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanshields:network' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mca:main' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'camera:default' : Version test of '1.0.0' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gravestone:default' : Version test of '1.0.0' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'argentina_food_mod:argentina_food_mod' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'artifacts:main' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'thedirtystuff:thedirtystuff' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'siegemachines:main' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib3:main' : Version test of '0' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'smallships:default' : Version test of '1.0.0' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:network' : Version test of '1.0.4' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'twilightforest:channel' : Version test of '2' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of '1' from client : ACCEPTED
+[08Feb2025 22:32:35.430] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[08Feb2025 22:32:35.431] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[08Feb2025 22:32:35.463] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[08Feb2025 22:32:35.463] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:35.463] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:35.472] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 9
+[08Feb2025 22:32:35.505] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[08Feb2025 22:32:35.505] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:35.505] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:35.522] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 10
+[08Feb2025 22:32:35.572] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 11
+[08Feb2025 22:32:35.622] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 12
+[08Feb2025 22:32:35.672] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 13
+[08Feb2025 22:32:35.722] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 14
+[08Feb2025 22:32:35.772] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 15
+[08Feb2025 22:32:35.822] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 16
+[08Feb2025 22:32:35.872] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 17
+[08Feb2025 22:32:35.922] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry framedblocks:camo_containers' to 'fml:handshake' sequence 18
+[08Feb2025 22:32:35.961] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[08Feb2025 22:32:35.961] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:35.961] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:35.961] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[08Feb2025 22:32:35.962] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:35.962] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:35.964] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[08Feb2025 22:32:35.964] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:35.964] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:35.964] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[08Feb2025 22:32:35.965] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:35.965] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:35.972] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 19
+[08Feb2025 22:32:36.022] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:dwarf_rabbit_variant' to 'fml:handshake' sequence 20
+[08Feb2025 22:32:36.072] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 21
+[08Feb2025 22:32:36.122] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 22
+[08Feb2025 22:32:36.172] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 23
+[08Feb2025 22:32:36.222] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config camera-server.toml' to 'fml:handshake' sequence 24
+[08Feb2025 22:32:36.272] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ageofweapons-server.toml' to 'fml:handshake' sequence 25
+[08Feb2025 22:32:36.322] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 26
+[08Feb2025 22:32:36.372] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config framedblocks-server.toml' to 'fml:handshake' sequence 27
+[08Feb2025 22:32:36.395] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[08Feb2025 22:32:36.395] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:36.395] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:36.422] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 28
+[08Feb2025 22:32:36.422] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[08Feb2025 22:32:36.422] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:36.422] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:36.422] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[08Feb2025 22:32:36.422] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:36.422] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:36.422] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[08Feb2025 22:32:36.422] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:36.422] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:36.463] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[08Feb2025 22:32:36.463] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:36.463] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:36.472] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config artifacts-server.toml' to 'fml:handshake' sequence 29
+[08Feb2025 22:32:36.522] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config gravestone-server.toml' to 'fml:handshake' sequence 30
+[08Feb2025 22:32:36.572] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 31
+[08Feb2025 22:32:36.622] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 32
+[08Feb2025 22:32:36.672] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tacz-server.toml' to 'fml:handshake' sequence 33
+[08Feb2025 22:32:36.722] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 34
+[08Feb2025 22:32:36.921] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[08Feb2025 22:32:36.921] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:36.921] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:36.963] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[08Feb2025 22:32:36.963] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:36.963] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:36.963] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[08Feb2025 22:32:36.963] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:36.963] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:36.963] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[08Feb2025 22:32:36.963] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:36.963] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:36.963] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[08Feb2025 22:32:36.963] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:36.963] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:36.963] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[08Feb2025 22:32:36.964] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:36.964] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:36.964] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[08Feb2025 22:32:36.964] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:36.964] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:36.964] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[08Feb2025 22:32:36.964] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:36.964] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:36.964] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[08Feb2025 22:32:36.964] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:36.964] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:40.543] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[08Feb2025 22:32:40.543] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:40.543] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:40.546] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[08Feb2025 22:32:40.546] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:40.546] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:40.546] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[08Feb2025 22:32:40.546] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:40.546] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:40.546] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[08Feb2025 22:32:40.546] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:40.546] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:40.549] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[08Feb2025 22:32:40.549] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:40.549] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:40.549] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[08Feb2025 22:32:40.550] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:40.550] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:40.550] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[08Feb2025 22:32:40.550] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:40.550] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:40.553] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[08Feb2025 22:32:40.553] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:40.553] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:40.553] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[08Feb2025 22:32:40.553] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:40.553] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:40.553] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[08Feb2025 22:32:40.553] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:40.553] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:40.556] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[08Feb2025 22:32:40.556] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:40.556] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:40.556] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[08Feb2025 22:32:40.556] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Feb2025 22:32:40.556] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Feb2025 22:32:40.572] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[08Feb2025 22:32:40.628] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@288367c2
+[08Feb2025 22:32:40.634] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EroDragonEx[/127.25.68.214:52153] logged in with entity id 40503 at (335.25434866272053, 76.52709404876433, 301.9436501943161)
+[08Feb2025 22:32:40.635] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@18047d6f into net.minecraft.network.Connection@11c072f2
+[08Feb2025 22:32:40.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EroDragonEx joined the game
+[08Feb2025 22:32:40.697] [Server thread/INFO] [Jade/]: Syncing config to EroDragonEx (e6991e8b-d28a-3f2b-bae1-e8fb387fa432)
+[08Feb2025 22:32:40.699] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of EroDragonEx: {disabled=false, disconnected=true, uuid=e6991e8b-d28a-3f2b-bae1-e8fb387fa432, name=EroDragonEx, group=null}
+[08Feb2025 22:32:41.392] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1739053961392
+[08Feb2025 22:32:42.615] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EroDragonEx (18)
+[08Feb2025 22:32:42.615] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to EroDragonEx
+[08Feb2025 22:32:42.615] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with EroDragonEx
+[08Feb2025 22:32:42.615] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with EroDragonEx
+[08Feb2025 22:32:42.615] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EroDragonEx
+[08Feb2025 22:32:47.756] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e6991e8b-d28a-3f2b-bae1-e8fb387fa432
+[08Feb2025 22:32:48.762] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e6991e8b-d28a-3f2b-bae1-e8fb387fa432
+[08Feb2025 22:32:48.762] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of EroDragonEx to connected: {disabled=false, disconnected=false, uuid=e6991e8b-d28a-3f2b-bae1-e8fb387fa432, name=EroDragonEx, group=null}
+[08Feb2025 22:32:48.762] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EroDragonEx (e6991e8b-d28a-3f2b-bae1-e8fb387fa432) successfully connected to voice chat
+[08Feb2025 22:32:48.974] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of EroDragonEx: {disabled=false, disconnected=false, uuid=e6991e8b-d28a-3f2b-bae1-e8fb387fa432, name=EroDragonEx, group=null}
+[08Feb2025 22:33:07.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set the weather to clear]
+[08Feb2025 22:33:11.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set the time to 1000]
+[08Feb2025 22:33:39.999] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dgg3japh5ndc]: started parsing
+[08Feb2025 22:33:39.999] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dgg3japh5ndc]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:33:54.927] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11kakznsvwgib]: started parsing
+[08Feb2025 22:33:54.927] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11kakznsvwgib]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:34:08.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
+[08Feb2025 22:34:08.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
+[08Feb2025 22:34:13.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EroDragonEx> brich_leaves
+[08Feb2025 22:34:22.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EroDragonEx> brich_log
+[08Feb2025 22:34:27.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EroDragonEx> oak
+[08Feb2025 22:34:30.896] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0a5mct2q898kc]: started parsing
+[08Feb2025 22:34:30.896] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0a5mct2q898kc]: Consuming argument ``
+[08Feb2025 22:34:31.301] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d2918jekvyy6]: started parsing
+[08Feb2025 22:34:31.301] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d2918jekvyy6]: Consuming argument `o`
+[08Feb2025 22:34:31.400] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1usytsmg6u5uq]: started parsing
+[08Feb2025 22:34:31.400] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1usytsmg6u5uq]: Consuming argument `oa`
+[08Feb2025 22:34:31.499] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l68i6i4azuu9]: started parsing
+[08Feb2025 22:34:31.499] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l68i6i4azuu9]: Consuming argument `oak`
+[08Feb2025 22:34:32.450] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1edrdtvqh198g]: started parsing
+[08Feb2025 22:34:32.450] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1edrdtvqh198g]: Consuming argument `oak_`
+[08Feb2025 22:34:32.814] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17r6y19rl1r6b]: started parsing
+[08Feb2025 22:34:32.814] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17r6y19rl1r6b]: Consuming argument `oak_l`
+[08Feb2025 22:34:32.866] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f2eb35fzl1mg]: started parsing
+[08Feb2025 22:34:32.866] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f2eb35fzl1mg]: Consuming argument `oak_le`
+[08Feb2025 22:34:34.600] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15pecpcmmhaaf]: started parsing
+[08Feb2025 22:34:34.600] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15pecpcmmhaaf]: Consuming argument `oak_leaves,`
+[08Feb2025 22:34:36.052] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ssf88kczowfv]: started parsing
+[08Feb2025 22:34:36.052] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ssf88kczowfv]: Consuming argument `oak_leaves,o`
+[08Feb2025 22:34:36.115] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ylofa0gd5qf2]: started parsing
+[08Feb2025 22:34:36.115] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ylofa0gd5qf2]: Consuming argument `oak_leaves,oa`
+[08Feb2025 22:34:36.270] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dmc3cn3xjk8r]: started parsing
+[08Feb2025 22:34:36.270] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dmc3cn3xjk8r]: Consuming argument `oak_leaves,oak`
+[08Feb2025 22:34:36.649] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16o70hozkw3gc]: started parsing
+[08Feb2025 22:34:36.649] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16o70hozkw3gc]: Consuming argument `oak_leaves,oak_`
+[08Feb2025 22:34:38.910] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m2vaf5ljum17]: started parsing
+[08Feb2025 22:34:38.910] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m2vaf5ljum17]: Consuming argument `oak_leaves,oak_p`
+[08Feb2025 22:34:39.156] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xeetssvruwgc]: started parsing
+[08Feb2025 22:34:39.156] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xeetssvruwgc]: Consuming argument `oak_leaves,oak_pl`
+[08Feb2025 22:34:41.105] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00bjk2rrnny8g]: started parsing
+[08Feb2025 22:34:41.105] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00bjk2rrnny8g]: Consuming argument `oak_leaves,oak_p`
+[08Feb2025 22:34:41.390] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06greby685qnv]: started parsing
+[08Feb2025 22:34:41.390] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06greby685qnv]: Consuming argument `oak_leaves,oak_`
+[08Feb2025 22:34:41.659] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ff17ur8nrbgj]: started parsing
+[08Feb2025 22:34:41.659] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ff17ur8nrbgj]: Consuming argument `oak_leaves,oak_`
+[08Feb2025 22:34:44.297] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fi7jp3ctru9m]: started parsing
+[08Feb2025 22:34:44.297] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fi7jp3ctru9m]: Consuming argument `oak_leaves,oak_`
+[08Feb2025 22:34:44.298] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0leqb7rk2n8hm]: started parsing
+[08Feb2025 22:34:44.298] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0leqb7rk2n8hm]: Consuming argument `oak_leaves,oak_`
+[08Feb2025 22:34:45.168] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iw89tcfd6a4u]: started parsing
+[08Feb2025 22:34:45.168] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iw89tcfd6a4u]: Consuming argument `oak_leaves,oak_l`
+[08Feb2025 22:34:45.349] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pvvgscpqtl2v]: started parsing
+[08Feb2025 22:34:45.349] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pvvgscpqtl2v]: Consuming argument `oak_leaves,oak_lo`
+[08Feb2025 22:34:46.399] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sic8bht2euqe]: started parsing
+[08Feb2025 22:34:46.399] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sic8bht2euqe]: Consuming argument `oak_leaves,oak_log`
+[08Feb2025 22:34:46.399] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sic8bht2euqe]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:34:46.749] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tp68ofck26ou]: started parsing
+[08Feb2025 22:34:46.749] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tp68ofck26ou]: Consuming argument `oak_leaves,oak_log.`
+[08Feb2025 22:34:47.008] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0potktjmkd6u3]: started parsing
+[08Feb2025 22:34:47.008] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0potktjmkd6u3]: Consuming argument `oak_leaves,oak_log`
+[08Feb2025 22:34:47.008] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0potktjmkd6u3]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:34:47.245] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vtbpp45ffxs8]: started parsing
+[08Feb2025 22:34:47.246] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vtbpp45ffxs8]: Consuming argument `oak_leaves,oak_log,`
+[08Feb2025 22:34:48.911] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07qxekfw3iuk7]: started parsing
+[08Feb2025 22:34:48.911] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07qxekfw3iuk7]: Consuming argument `oak_leaves,oak_log,b`
+[08Feb2025 22:34:49.162] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04mtnzfu7sk17]: started parsing
+[08Feb2025 22:34:49.162] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04mtnzfu7sk17]: Consuming argument `oak_leaves,oak_log,br`
+[08Feb2025 22:34:49.348] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jhf5pctab1lp]: started parsing
+[08Feb2025 22:34:49.348] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jhf5pctab1lp]: Consuming argument `oak_leaves,oak_log,bri`
+[08Feb2025 22:34:49.753] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cxb3ihyvamb1]: started parsing
+[08Feb2025 22:34:49.753] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cxb3ihyvamb1]: Consuming argument `oak_leaves,oak_log,bric`
+[08Feb2025 22:34:50.017] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b7xxdfnx57e0]: started parsing
+[08Feb2025 22:34:50.017] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b7xxdfnx57e0]: Consuming argument `oak_leaves,oak_log,brich`
+[08Feb2025 22:34:51.561] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19jsqked0a3zd]: started parsing
+[08Feb2025 22:34:51.561] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19jsqked0a3zd]: Consuming argument `oak_leaves,oak_log,brich_`
+[08Feb2025 22:34:51.801] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [141cs9jv7asao]: started parsing
+[08Feb2025 22:34:51.801] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [141cs9jv7asao]: Consuming argument `oak_leaves,oak_log,brich_l`
+[08Feb2025 22:34:54.871] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j27pch2zaz34]: started parsing
+[08Feb2025 22:34:54.871] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j27pch2zaz34]: Consuming argument `oak_leaves,oak_log,brich_le`
+[08Feb2025 22:34:55.045] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jzougj1kicu4]: started parsing
+[08Feb2025 22:34:55.046] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jzougj1kicu4]: Consuming argument `oak_leaves,oak_log,brich_lea`
+[08Feb2025 22:34:55.306] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iz1yitpjm0db]: started parsing
+[08Feb2025 22:34:55.306] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iz1yitpjm0db]: Consuming argument `oak_leaves,oak_log,brich_leav`
+[08Feb2025 22:34:55.506] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ifl65bg20q21]: started parsing
+[08Feb2025 22:34:55.507] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ifl65bg20q21]: Consuming argument `oak_leaves,oak_log,brich_leave`
+[08Feb2025 22:34:55.753] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06zgkef6clz1d]: started parsing
+[08Feb2025 22:34:55.753] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06zgkef6clz1d]: Consuming argument `oak_leaves,oak_log,brich_leaves`
+[08Feb2025 22:34:56.900] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0td6iyzuftpeq]: started parsing
+[08Feb2025 22:34:56.900] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0td6iyzuftpeq]: Consuming argument `oak_leaves,oak_log,brich_leaves,`
+[08Feb2025 22:35:00.556] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07ivhbcxgid2s]: started parsing
+[08Feb2025 22:35:00.556] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07ivhbcxgid2s]: Consuming argument `oak_leaves,oak_log,brich_leaves,b`
+[08Feb2025 22:35:02.347] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g5n8e16e4q4c]: started parsing
+[08Feb2025 22:35:02.347] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g5n8e16e4q4c]: Consuming argument `oak_leaves,oak_log,brich_leaves,br`
+[08Feb2025 22:35:07.819] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ntkpct4a3eqq]: started parsing
+[08Feb2025 22:35:07.819] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ntkpct4a3eqq]: Consuming argument `oak_leaves,oak_log,brich_leaves,bri`
+[08Feb2025 22:35:10.416] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t9gvflwwn63n]: started parsing
+[08Feb2025 22:35:10.416] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t9gvflwwn63n]: Consuming argument `oak_leaves,oak_log,brich_leaves,bric`
+[08Feb2025 22:35:13.146] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s1l9psujlesl]: started parsing
+[08Feb2025 22:35:13.146] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s1l9psujlesl]: Consuming argument `oak_leaves,oak_log,brich_leaves,brich`
+[08Feb2025 22:35:16.396] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13hb4dqmxddsg]: started parsing
+[08Feb2025 22:35:16.396] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13hb4dqmxddsg]: Consuming argument `oak_leaves,oak_log,brich_leaves,brich_`
+[08Feb2025 22:35:16.398] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o0u945e5pwsx]: started parsing
+[08Feb2025 22:35:16.398] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o0u945e5pwsx]: Consuming argument `oak_leaves,oak_log,brich_leaves,brich_o`
+[08Feb2025 22:35:16.400] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rd2gvdtvr7wo]: started parsing
+[08Feb2025 22:35:16.400] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rd2gvdtvr7wo]: Consuming argument `oak_leaves,oak_log,brich_leaves,brich_oa`
+[08Feb2025 22:35:16.401] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06uf5xwhknjkl]: started parsing
+[08Feb2025 22:35:16.401] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06uf5xwhknjkl]: Consuming argument `oak_leaves,oak_log,brich_leaves,brich_oak`
+[08Feb2025 22:35:16.402] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hm0xraldogt8]: started parsing
+[08Feb2025 22:35:16.402] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hm0xraldogt8]: Consuming argument `oak_leaves,oak_log,brich_leaves,brich_oak`
+[08Feb2025 22:35:16.403] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16zq5hbegfjzb]: started parsing
+[08Feb2025 22:35:16.403] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16zq5hbegfjzb]: Consuming argument `oak_leaves,oak_log,brich_leaves,brich_oak`
+[08Feb2025 22:35:16.603] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qgqr36qxwx5k]: started parsing
+[08Feb2025 22:35:16.603] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qgqr36qxwx5k]: Consuming argument `oak_leaves,oak_log,brich_leaves,brich_oak`
+[08Feb2025 22:35:16.951] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nz7umlgpa98f]: started parsing
+[08Feb2025 22:35:16.951] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nz7umlgpa98f]: Consuming argument `oak_leaves,oak_log,brich_leaves,brich_oak`
+[08Feb2025 22:35:17.463] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tftb1qogeml8]: started parsing
+[08Feb2025 22:35:17.464] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tftb1qogeml8]: Consuming argument `oak_leaves,oak_log,brich_leaves,brich_oak`
+[08Feb2025 22:35:17.603] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18yav2jzo3d52]: started parsing
+[08Feb2025 22:35:17.603] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18yav2jzo3d52]: Consuming argument `oak_leaves,oak_log,brich_leaves,brich_oak`
+[08Feb2025 22:35:17.700] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13cgjvaers9fp]: started parsing
+[08Feb2025 22:35:17.700] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13cgjvaers9fp]: Consuming argument `oak_leaves,oak_log,brich_leaves,brich_oak`
+[08Feb2025 22:35:25.241] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ta78q80h6g38]: started parsing
+[08Feb2025 22:35:25.241] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ta78q80h6g38]: Consuming argument `oak_leaves,oak_log,brich_leaves,brich_oak`
+[08Feb2025 22:35:25.242] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n7qzqh1gq9yb]: started parsing
+[08Feb2025 22:35:25.242] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n7qzqh1gq9yb]: Consuming argument `oak_leaves,oak_log,brich_leaves,brich_oak`
+[08Feb2025 22:35:25.242] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bazep9a0h38j]: started parsing
+[08Feb2025 22:35:25.242] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bazep9a0h38j]: Consuming argument `oak_leaves,oak_log,brich_leaves,brich_oak`
+[08Feb2025 22:35:25.243] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07sdhr09afeie]: started parsing
+[08Feb2025 22:35:25.243] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07sdhr09afeie]: Consuming argument `oak_leaves,oak_log,brich_leaves,brich_oak`
+[08Feb2025 22:35:25.243] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04hfmggeb2ap1]: started parsing
+[08Feb2025 22:35:25.243] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04hfmggeb2ap1]: Consuming argument `oak_leaves,oak_log,brich_leaves,brich_oak`
+[08Feb2025 22:35:25.244] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bm80aadnk0yo]: started parsing
+[08Feb2025 22:35:25.244] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bm80aadnk0yo]: Consuming argument `oak_leaves,oak_log,brich_leaves,brich_oak`
+[08Feb2025 22:35:25.245] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a7ftdbq29tv1]: started parsing
+[08Feb2025 22:35:25.245] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a7ftdbq29tv1]: Consuming argument `oak_leaves,oak_log,brich_leaves,brich_oa`
+[08Feb2025 22:35:25.246] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18ihhyi9xz5ov]: started parsing
+[08Feb2025 22:35:25.246] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18ihhyi9xz5ov]: Consuming argument `oak_leaves,oak_log,brich_leaves,brich_o`
+[08Feb2025 22:35:25.248] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bvbuxoaktevz]: started parsing
+[08Feb2025 22:35:25.248] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bvbuxoaktevz]: Consuming argument `oak_leaves,oak_log,brich_leaves,brich_`
+[08Feb2025 22:35:25.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x0wakjrn0zyh]: started parsing
+[08Feb2025 22:35:25.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x0wakjrn0zyh]: Consuming argument `oak_leaves,oak_log,brich_leaves,brich`
+[08Feb2025 22:35:25.250] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03l3goxanjwhi]: started parsing
+[08Feb2025 22:35:25.250] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03l3goxanjwhi]: Consuming argument `oak_leaves,oak_log,brich_leaves,bric`
+[08Feb2025 22:35:25.251] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zl24mz0fxi82]: started parsing
+[08Feb2025 22:35:25.251] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zl24mz0fxi82]: Consuming argument `oak_leaves,oak_log,brich_leaves,bri`
+[08Feb2025 22:35:25.252] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14rqfa5693eps]: started parsing
+[08Feb2025 22:35:25.252] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14rqfa5693eps]: Consuming argument `oak_leaves,oak_log,brich_leaves,br`
+[08Feb2025 22:35:25.253] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gqdv4n31x0a9]: started parsing
+[08Feb2025 22:35:25.253] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gqdv4n31x0a9]: Consuming argument `oak_leaves,oak_log,brich_leaves,b`
+[08Feb2025 22:35:29.697] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1877ofm00i8i7]: started parsing
+[08Feb2025 22:35:29.697] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1877ofm00i8i7]: Consuming argument `oak_leaves,oak_log,brich_leaves,`
+[08Feb2025 22:35:29.699] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fllpua8kjlku]: started parsing
+[08Feb2025 22:35:29.699] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fllpua8kjlku]: Consuming argument `oak_leaves,oak_log,brich_leaves,b`
+[08Feb2025 22:35:29.700] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16bh929xq8qor]: started parsing
+[08Feb2025 22:35:29.700] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16bh929xq8qor]: Consuming argument `oak_leaves,oak_log,brich_leaves,br`
+[08Feb2025 22:35:29.701] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ul2kiozaimsr]: started parsing
+[08Feb2025 22:35:29.701] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ul2kiozaimsr]: Consuming argument `oak_leaves,oak_log,brich_leaves,bri`
+[08Feb2025 22:35:29.703] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rw4368e89j39]: started parsing
+[08Feb2025 22:35:29.703] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rw4368e89j39]: Consuming argument `oak_leaves,oak_log,brich_leaves,br`
+[08Feb2025 22:35:29.704] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1egycfbxv02dq]: started parsing
+[08Feb2025 22:35:29.704] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1egycfbxv02dq]: Consuming argument `oak_leaves,oak_log,brich_leaves,b`
+[08Feb2025 22:35:29.705] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jajqxncuzxxa]: started parsing
+[08Feb2025 22:35:29.705] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jajqxncuzxxa]: Consuming argument `oak_leaves,oak_log,brich_leaves,bi`
+[08Feb2025 22:35:29.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14kqsnw89irvy]: started parsing
+[08Feb2025 22:35:29.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14kqsnw89irvy]: Consuming argument `oak_leaves,oak_log,brich_leaves,bir`
+[08Feb2025 22:35:29.708] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xeyzomgr1guv]: started parsing
+[08Feb2025 22:35:29.708] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xeyzomgr1guv]: Consuming argument `oak_leaves,oak_log,brich_leaves,bi`
+[08Feb2025 22:35:29.709] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1193ox04v6jkp]: started parsing
+[08Feb2025 22:35:29.709] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1193ox04v6jkp]: Consuming argument `oak_leaves,oak_log,brich_leaves,b`
+[08Feb2025 22:35:29.711] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kljvzqxhjfra]: started parsing
+[08Feb2025 22:35:29.711] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kljvzqxhjfra]: Consuming argument `oak_leaves,oak_log,brich_leaves,`
+[08Feb2025 22:35:29.712] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18memte48qivk]: started parsing
+[08Feb2025 22:35:29.712] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18memte48qivk]: Consuming argument `oak_leaves,oak_log,brich_leaves`
+[08Feb2025 22:35:29.713] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bo1fh9quj84o]: started parsing
+[08Feb2025 22:35:29.713] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bo1fh9quj84o]: Consuming argument `oak_leaves,oak_log,brich_leave`
+[08Feb2025 22:35:29.714] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i61gf6echghi]: started parsing
+[08Feb2025 22:35:29.714] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i61gf6echghi]: Consuming argument `oak_leaves,oak_log,brich_leav`
+[08Feb2025 22:35:29.715] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1reg6wnda8iwg]: started parsing
+[08Feb2025 22:35:29.715] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1reg6wnda8iwg]: Consuming argument `oak_leaves,oak_log,brich_lea`
+[08Feb2025 22:35:29.716] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1veprfvz4es4r]: started parsing
+[08Feb2025 22:35:29.716] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1veprfvz4es4r]: Consuming argument `oak_leaves,oak_log,brich_le`
+[08Feb2025 22:35:29.717] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0066pcc2qdsln]: started parsing
+[08Feb2025 22:35:29.717] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0066pcc2qdsln]: Consuming argument `oak_leaves,oak_log,brich_l`
+[08Feb2025 22:35:29.718] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sd70qzdz95xu]: started parsing
+[08Feb2025 22:35:29.718] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sd70qzdz95xu]: Consuming argument `oak_leaves,oak_log,brich_`
+[08Feb2025 22:35:29.719] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12qax4l0jek1o]: started parsing
+[08Feb2025 22:35:29.719] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12qax4l0jek1o]: Consuming argument `oak_leaves,oak_log,brich`
+[08Feb2025 22:35:29.720] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07b3jrq5kqqip]: started parsing
+[08Feb2025 22:35:29.720] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07b3jrq5kqqip]: Consuming argument `oak_leaves,oak_log,bric`
+[08Feb2025 22:35:29.721] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19oxrd88upkbm]: started parsing
+[08Feb2025 22:35:29.721] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19oxrd88upkbm]: Consuming argument `oak_leaves,oak_log,bri`
+[08Feb2025 22:35:29.815] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13b0pjj4v065q]: started parsing
+[08Feb2025 22:35:29.815] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13b0pjj4v065q]: Consuming argument `oak_leaves,oak_log,br`
+[08Feb2025 22:35:30.310] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sppckt5esgsj]: started parsing
+[08Feb2025 22:35:30.310] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sppckt5esgsj]: Consuming argument `oak_leaves,oak_log,bri`
+[08Feb2025 22:35:30.603] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wvxym0wyx344]: started parsing
+[08Feb2025 22:35:30.603] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wvxym0wyx344]: Consuming argument `oak_leaves,oak_log,br`
+[08Feb2025 22:35:30.750] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ejkkl9ksqbaq]: started parsing
+[08Feb2025 22:35:30.751] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ejkkl9ksqbaq]: Consuming argument `oak_leaves,oak_log,b`
+[08Feb2025 22:35:36.551] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ghsw5kz96y26]: started parsing
+[08Feb2025 22:35:36.552] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ghsw5kz96y26]: Consuming argument `oak_leaves,oak_log,bi`
+[08Feb2025 22:35:36.553] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03n9o8zoyf9n7]: started parsing
+[08Feb2025 22:35:36.553] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03n9o8zoyf9n7]: Consuming argument `oak_leaves,oak_log,bir`
+[08Feb2025 22:35:36.555] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18lyp0pgvu6lq]: started parsing
+[08Feb2025 22:35:36.555] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18lyp0pgvu6lq]: Consuming argument `oak_leaves,oak_log,birch_leaves,birch_oak`
+[08Feb2025 22:35:36.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EroDragonEx moved too quickly! 7.080416512549334,7.162512624147411,0.19480676914375294
+[08Feb2025 22:35:48.954] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hx48k4sc6564]: started parsing
+[08Feb2025 22:35:48.954] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hx48k4sc6564]: Consuming argument `oak_leaves,oak_log,birch_leaves,birch_oak`
+[08Feb2025 22:35:48.955] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07ld3vvtcp8kd]: started parsing
+[08Feb2025 22:35:48.955] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07ld3vvtcp8kd]: Consuming argument `oak_leaves,oak_log,birch_leaves,birch_oak`
+[08Feb2025 22:35:50.016] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01jzsx2w9v30b]: started parsing
+[08Feb2025 22:35:50.016] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01jzsx2w9v30b]: Consuming argument `oak_leaves,oak_log,birch_leaves,birch_oak`
+[08Feb2025 22:35:51.002] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03fe2eriwuooe]: started parsing
+[08Feb2025 22:35:51.002] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03fe2eriwuooe]: Consuming argument `oak_leaves,oak_log,birch_leaves,birch_oak`
+[08Feb2025 22:35:51.003] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o4lmn26vmo18]: started parsing
+[08Feb2025 22:35:51.003] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o4lmn26vmo18]: Consuming argument `oak_leaves,oak_log,birch_leaves,birch_oak`
+[08Feb2025 22:35:51.099] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o3ots1h40mtu]: started parsing
+[08Feb2025 22:35:51.099] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o3ots1h40mtu]: Consuming argument `oak_leaves,oak_log,birch_leaves,birch_oak`
+[08Feb2025 22:35:51.361] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07mlkksr908vq]: started parsing
+[08Feb2025 22:35:51.361] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07mlkksr908vq]: Consuming argument `oak_leaves,oak_log,birch_leaves,birch_oa`
+[08Feb2025 22:35:51.515] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zvnic0i3irr4]: started parsing
+[08Feb2025 22:35:51.515] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zvnic0i3irr4]: Consuming argument `oak_leaves,oak_log,birch_leaves,birch_o`
+[08Feb2025 22:35:51.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1adkhzyafhbad]: started parsing
+[08Feb2025 22:35:51.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1adkhzyafhbad]: Consuming argument `oak_leaves,oak_log,birch_leaves,birch_`
+[08Feb2025 22:35:52.501] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12xn9xnlo9w98]: started parsing
+[08Feb2025 22:35:52.501] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12xn9xnlo9w98]: Consuming argument `oak_leaves,oak_log,birch_leaves,birch_l`
+[08Feb2025 22:35:52.753] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tu4cqy4k4w6l]: started parsing
+[08Feb2025 22:35:52.753] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tu4cqy4k4w6l]: Consuming argument `oak_leaves,oak_log,birch_leaves,birch_lo`
+[08Feb2025 22:35:53.602] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lvse0zgbkysv]: started parsing
+[08Feb2025 22:35:53.602] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lvse0zgbkysv]: Consuming argument `oak_leaves,oak_log,birch_leaves,birch_lo`
+[08Feb2025 22:35:56.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EroDragonEx moved too quickly! -2.411564465480751,0.0,-9.73506913432658
+[08Feb2025 22:35:57.351] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m6u275ry47sv]: started parsing
+[08Feb2025 22:35:57.351] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m6u275ry47sv]: Consuming argument `oak_leaves,oak_log,birch_leaves,birch_lo`
+[08Feb2025 22:35:57.352] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fkr394k5fbo1]: started parsing
+[08Feb2025 22:35:57.352] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fkr394k5fbo1]: Consuming argument `oak_leaves,oak_log,birch_leaves,birch_lo`
+[08Feb2025 22:35:59.456] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cjubq6ug1gr8]: started parsing
+[08Feb2025 22:35:59.456] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cjubq6ug1gr8]: Consuming argument `oak_leaves,oak_log,birch_leaves,birch_lo`
+[08Feb2025 22:35:59.457] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jpq433t8g6xs]: started parsing
+[08Feb2025 22:35:59.457] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jpq433t8g6xs]: Consuming argument `oak_leaves,oak_log,birch_leaves,birch_lo`
+[08Feb2025 22:35:59.458] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1itzzp0ez4sol]: started parsing
+[08Feb2025 22:35:59.458] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1itzzp0ez4sol]: Consuming argument `oak_leaves,oak_log,birch_leaves,birch_lo`
+[08Feb2025 22:35:59.458] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12tehxvzt981b]: started parsing
+[08Feb2025 22:35:59.458] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12tehxvzt981b]: Consuming argument `oak_leaves,oak_log,birch_leaves,birch_lo`
+[08Feb2025 22:35:59.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0292k5a6j0iwj]: started parsing
+[08Feb2025 22:35:59.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0292k5a6j0iwj]: Consuming argument `oak_leaves,oak_log,birch_leaves,birch_log`
+[08Feb2025 22:35:59.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0292k5a6j0iwj]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:35:59.856] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l4pstt3fvl8y]: started parsing
+[08Feb2025 22:35:59.856] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l4pstt3fvl8y]: Consuming argument `oak_leaves,oak_log,birch_leaves,birch_log`
+[08Feb2025 22:35:59.856] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l4pstt3fvl8y]: Consuming argument `air`
+[08Feb2025 22:35:59.856] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l4pstt3fvl8y]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:36:04.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EroDragonEx moved too quickly! -6.581027730296512,0.0,8.04179552666966
+[08Feb2025 22:36:15.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[08Feb2025 22:36:18.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Creative Mode]
+[08Feb2025 22:37:16.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EroDragonEx moved too quickly! 2.9999894580649027,0.0,9.619618289969623
+[08Feb2025 22:37:47.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EroDragonEx moved too quickly! 10.24737383222157,0.6266720281391116,0.41919583083071643
+[08Feb2025 22:38:12.667] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19m8nxemruqwp]: started parsing
+[08Feb2025 22:38:12.668] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19m8nxemruqwp]: Consuming argument `oak_leaves,oak_log,birch_leaves,birch_log`
+[08Feb2025 22:38:12.668] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19m8nxemruqwp]: Consuming argument `air`
+[08Feb2025 22:38:12.668] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19m8nxemruqwp]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:38:12.668] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17c6d3xl2uluq]: started parsing
+[08Feb2025 22:38:12.668] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17c6d3xl2uluq]: Consuming argument `oak_leaves,oak_log,birch_leaves,birch_log`
+[08Feb2025 22:38:12.668] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17c6d3xl2uluq]: Consuming argument `air`
+[08Feb2025 22:38:12.668] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17c6d3xl2uluq]: Finished looking at arguments. Finalizing command.
+[08Feb2025 22:38:12.999] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19afjhym5jhhw]: started parsing
+[08Feb2025 22:38:12.999] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19afjhym5jhhw]: Consuming argument `oak_leaves,oak_log,birch_leaves,birch_lo`
+[08Feb2025 22:38:12.999] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wr6g7bdpk2vz]: started parsing
+[08Feb2025 22:38:12.999] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wr6g7bdpk2vz]: Consuming argument `oak_leaves,oak_log,birch_leaves,birch_lo`
+[08Feb2025 22:38:13.215] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d2el8zagjynq]: started parsing
+[08Feb2025 22:38:13.215] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d2el8zagjynq]: Consuming argument `oak_leaves,oak_log,birch_leaves,birch_oak`
+[08Feb2025 22:38:13.215] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bb646c7l50bi]: started parsing
+[08Feb2025 22:38:13.216] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bb646c7l50bi]: Consuming argument `oak_leaves,oak_log,birch_leaves,birch_oak`
+[08Feb2025 22:38:13.454] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01osdtbtm12bv]: started parsing
+[08Feb2025 22:38:13.454] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01osdtbtm12bv]: Consuming argument `oak_leaves,oak_log,brich_leaves,brich_oak`
+[08Feb2025 22:38:13.455] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lb3r000c0e3b]: started parsing
+[08Feb2025 22:38:13.455] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lb3r000c0e3b]: Consuming argument `oak_leaves,oak_log,brich_leaves,brich_oak`
+[08Feb2025 22:38:13.603] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kzfaeokqmttc]: started parsing
+[08Feb2025 22:38:13.603] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kzfaeokqmttc]: Consuming argument `oak_leaves,oak_`
+[08Feb2025 22:38:13.606] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0riyvycfisr77]: started parsing
+[08Feb2025 22:38:13.606] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0riyvycfisr77]: Consuming argument `oak_leaves,oak_`
+[08Feb2025 22:38:17.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set the weather to clear]
+[08Feb2025 22:38:24.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Gamerule doWeatherCycle is now set to: false]
+[08Feb2025 22:39:08.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
+[08Feb2025 22:39:08.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg

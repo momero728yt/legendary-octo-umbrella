@@ -4568,3 +4568,29 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Feb2025 22:21:40.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Creative Mode]
 [08Feb2025 22:22:13.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set the weather to clear]
 [08Feb2025 22:27:26.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set the weather to clear]
+[08Feb2025 22:31:55.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EroDragonEx lost connection: Timed out
+[08Feb2025 22:31:55.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EroDragonEx left the game
+[08Feb2025 22:31:55.647] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EroDragonEx
+[08Feb2025 22:32:40.628] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@288367c2
+[08Feb2025 22:32:40.634] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EroDragonEx[/127.25.68.214:52153] logged in with entity id 40503 at (335.25434866272053, 76.52709404876433, 301.9436501943161)
+[08Feb2025 22:32:40.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EroDragonEx joined the game
+[08Feb2025 22:32:40.697] [Server thread/INFO] [Jade/]: Syncing config to EroDragonEx (e6991e8b-d28a-3f2b-bae1-e8fb387fa432)
+[08Feb2025 22:32:42.615] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EroDragonEx (18)
+[08Feb2025 22:32:42.615] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EroDragonEx
+[08Feb2025 22:32:47.756] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e6991e8b-d28a-3f2b-bae1-e8fb387fa432
+[08Feb2025 22:32:48.762] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e6991e8b-d28a-3f2b-bae1-e8fb387fa432
+[08Feb2025 22:32:48.762] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EroDragonEx (e6991e8b-d28a-3f2b-bae1-e8fb387fa432) successfully connected to voice chat
+[08Feb2025 22:33:07.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set the weather to clear]
+[08Feb2025 22:33:11.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set the time to 1000]
+[08Feb2025 22:34:13.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EroDragonEx> brich_leaves
+[08Feb2025 22:34:22.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EroDragonEx> brich_log
+[08Feb2025 22:34:27.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EroDragonEx> oak
+[08Feb2025 22:35:36.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EroDragonEx moved too quickly! 7.080416512549334,7.162512624147411,0.19480676914375294
+[08Feb2025 22:35:56.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EroDragonEx moved too quickly! -2.411564465480751,0.0,-9.73506913432658
+[08Feb2025 22:36:04.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EroDragonEx moved too quickly! -6.581027730296512,0.0,8.04179552666966
+[08Feb2025 22:36:15.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[08Feb2025 22:36:18.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Creative Mode]
+[08Feb2025 22:37:16.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EroDragonEx moved too quickly! 2.9999894580649027,0.0,9.619618289969623
+[08Feb2025 22:37:47.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EroDragonEx moved too quickly! 10.24737383222157,0.6266720281391116,0.41919583083071643
+[08Feb2025 22:38:17.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set the weather to clear]
+[08Feb2025 22:38:24.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Gamerule doWeatherCycle is now set to: false]
