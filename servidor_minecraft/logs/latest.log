@@ -4539,3 +4539,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Feb2025 21:22:18.229] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
 [08Feb2025 21:22:18.229] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
 [08Feb2025 21:22:18.229] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[08Feb2025 21:32:21.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EroDragonEx has made the advancement [Music register]
+[08Feb2025 21:35:28.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EroDragonEx has made the advancement [Writing...]
+[08Feb2025 21:35:47.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EroDragonEx has made the advancement [DJ! DJ!]
+[08Feb2025 21:38:36.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[08Feb2025 21:38:44.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Creative Mode]
+[08Feb2025 21:44:08.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[08Feb2025 21:44:26.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Creative Mode]
