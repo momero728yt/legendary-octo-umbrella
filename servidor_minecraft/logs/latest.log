@@ -4548,3 +4548,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Feb2025 21:44:26.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Creative Mode]
 [08Feb2025 21:54:06.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
 [08Feb2025 21:54:15.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Creative Mode]
+[08Feb2025 22:02:51.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[08Feb2025 22:02:56.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Creative Mode]
+[08Feb2025 22:03:03.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[08Feb2025 22:05:08.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EroDragonEx has made the advancement [Source of Evil]
+[08Feb2025 22:06:20.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Creative Mode]
+[08Feb2025 22:07:38.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[08Feb2025 22:08:01.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EroDragonEx moved too quickly! 9.044232873969463,-4.537940978744601,0.7936187070002916
+[08Feb2025 22:08:01.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Creative Mode]

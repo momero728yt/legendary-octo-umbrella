@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-02-08 21:54:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-02-08 02:52:40 +0000"
@@ -376,6 +382,12 @@
       "give_recipe": "2025-02-08 03:12:42 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2025-02-08 22:03:06 +0000"
+    },
+    "done": false
   },
   "butchercraft:recipes/butchercraft.items/cooked_chicken_scraps_from_campfire_cooking": {
     "criteria": {
@@ -641,6 +653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-08 21:59:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-02-08 21:11:59 +0000"
@@ -704,6 +722,12 @@
   "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-02-08 21:11:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-08 22:03:06 +0000"
     },
     "done": true
   },
@@ -1937,6 +1961,12 @@
   "securitycraft:recipes/securitycraft/reinforced_white_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-08 21:11:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-02-08 22:03:01 +0000"
     },
     "done": true
   },
