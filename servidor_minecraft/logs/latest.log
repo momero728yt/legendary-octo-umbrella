@@ -4594,3 +4594,26 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Feb2025 22:37:47.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EroDragonEx moved too quickly! 10.24737383222157,0.6266720281391116,0.41919583083071643
 [08Feb2025 22:38:17.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set the weather to clear]
 [08Feb2025 22:38:24.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Gamerule doWeatherCycle is now set to: false]
+[08Feb2025 22:41:14.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[08Feb2025 22:41:22.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EroDragonEx moved too quickly! -7.840491044040988,0.0,6.574401684880684
+[08Feb2025 22:41:58.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Creative Mode]
+[08Feb2025 22:42:56.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EroDragonEx moved too quickly! 0.413266446964883,-10.643534332740728,0.034674838619935144
+[08Feb2025 22:44:42.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[08Feb2025 22:44:44.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Creative Mode]
+[08Feb2025 22:46:14.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[08Feb2025 22:46:46.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EroDragonEx moved too quickly! 8.630482854505487,-2.5908310271481483,-4.6110800337576165
+[08Feb2025 22:46:49.671] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e6991e8b-d28a-3f2b-bae1-e8fb387fa432 timed out
+[08Feb2025 22:46:49.671] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player EroDragonEx
+[08Feb2025 22:46:49.671] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to EroDragonEx
+[08Feb2025 22:46:50.404] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e6991e8b-d28a-3f2b-bae1-e8fb387fa432
+[08Feb2025 22:46:51.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e6991e8b-d28a-3f2b-bae1-e8fb387fa432
+[08Feb2025 22:46:51.412] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EroDragonEx (e6991e8b-d28a-3f2b-bae1-e8fb387fa432) successfully connected to voice chat
+[08Feb2025 22:47:24.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Creative Mode]
+[08Feb2025 22:47:41.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[08Feb2025 22:47:43.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Creative Mode]
+[08Feb2025 22:47:44.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EroDragonEx has made the advancement [Sweet Dreams]
+[08Feb2025 22:48:03.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[08Feb2025 22:48:13.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Creative Mode]
+[08Feb2025 22:49:12.498] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EroDragonEx lost connection: Timed out
+[08Feb2025 22:49:12.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EroDragonEx left the game
+[08Feb2025 22:49:12.499] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EroDragonEx
