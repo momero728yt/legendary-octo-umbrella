@@ -11,6 +11,384 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-02-07 22:02:22 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_drakkar": {
+    "criteria": {
+      "in_water": "2025-02-08 02:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-02-07 22:02:22 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_cube": {
+    "criteria": {
+      "hasPlanks": "2025-02-08 02:36:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_drakkar": {
+    "criteria": {
+      "in_water": "2025-02-08 02:36:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_cog": {
+    "criteria": {
+      "in_water": "2025-02-08 02:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-07 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2025-02-07 22:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 02:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-07 23:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-02-07 22:09:13 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/wooden_tower_shield": {
+    "criteria": {
+      "has_planks": "2025-02-08 02:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 02:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2025-02-08 02:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/crafting_table_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-07 23:33:28 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_cog": {
+    "criteria": {
+      "in_water": "2025-02-08 02:36:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_drakkar": {
+    "criteria": {
+      "in_water": "2025-02-08 02:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-02-07 22:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 02:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-07 23:33:28 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_cog": {
+    "criteria": {
+      "in_water": "2025-02-08 02:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-02-08 02:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/barrel_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-07 23:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-07 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-02-08 02:36:44 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-02-07 21:57:31 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_galley": {
+    "criteria": {
+      "in_water": "2025-02-08 02:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_stairs_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-07 23:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 02:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-08 02:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-02-08 02:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-08 02:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_sign_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-07 23:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-02-07 22:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_boat_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-07 23:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_trapdoor_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 02:36:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_cog": {
+    "criteria": {
+      "in_water": "2025-02-08 02:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_button_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-07 23:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-07 22:00:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-02-07 22:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 02:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/chest_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-07 23:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-02-07 22:02:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-02-07 23:33:28 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_galley": {
+    "criteria": {
+      "in_water": "2025-02-08 02:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-08 02:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-02-07 23:35:30 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_brigg": {
+    "criteria": {
+      "in_water": "2025-02-08 02:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-02-07 22:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_stairs_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 02:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_chest_boat_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-07 23:33:28 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-02-08 02:37:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/laser_block": {
+    "criteria": {
+      "has_stone": "2025-02-07 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/butcherblock": {
+    "criteria": {
+      "has_wood": "2025-02-07 23:33:28 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_galley": {
+    "criteria": {
+      "in_water": "2025-02-08 02:36:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-02-07 22:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-02-08 02:36:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_cog": {
+    "criteria": {
+      "in_water": "2025-02-08 02:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-08 02:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-02-07 22:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-02-07 22:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_shovel": "2025-02-08 02:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-08 02:36:44 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
     "criteria": {
       "has_leather": "2025-02-07 22:09:13 +0000"
@@ -35,19 +413,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lever": {
-    "criteria": {
-      "has_cobblestone": "2025-02-07 22:02:22 +0000"
-    },
-    "done": true
-  },
   "spartanshields:recipes/spartanshields/stone_basic_shield": {
-    "criteria": {
-      "has_cobblestone": "2025-02-07 22:02:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-07 22:02:22 +0000"
     },
@@ -59,15 +425,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+  "minecraft:recipes/redstone/oak_button": {
     "criteria": {
-      "has_andesite": "2025-02-07 22:10:09 +0000"
+      "has_planks": "2025-02-08 02:36:44 +0000"
     },
     "done": true
   },
-  "graveyard:graveyard/crypt": {
+  "smallships:recipes/transportation/oak_brigg": {
     "criteria": {
-      "crypt": "2025-02-07 22:12:46 +0000"
+      "in_water": "2025-02-08 02:36:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_galley": {
+    "criteria": {
+      "in_water": "2025-02-08 02:36:45 +0000"
     },
     "done": true
   },
@@ -95,21 +467,15 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/oak_drakkar": {
+    "criteria": {
+      "in_water": "2025-02-08 02:36:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-02-07 22:02:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-07 23:33:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2025-02-07 22:09:13 +0000"
     },
     "done": true
   },
@@ -124,15 +490,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
+  "smallships:recipes/transportation/birch_brigg": {
     "criteria": {
-      "has_andesite": "2025-02-07 22:10:09 +0000"
+      "in_water": "2025-02-08 02:36:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/dark_oak/crafting_table_from_dark_oak_slab_woodcutting": {
+  "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
-      "give_recipe": "2025-02-07 23:33:28 +0000"
+      "has_andesite": "2025-02-07 22:10:09 +0000"
     },
     "done": true
   },
@@ -154,15 +520,27 @@
     },
     "done": true
   },
+  "spartanshields:recipes/spartanshields/wooden_basic_shield": {
+    "criteria": {
+      "has_planks": "2025-02-08 02:36:44 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_drakkar": {
+    "criteria": {
+      "in_water": "2025-02-08 02:36:45 +0000"
+    },
+    "done": true
+  },
   "pizzacraft:root": {
     "criteria": {
       "tick": "2025-02-07 21:57:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "has_lots_of_items": "2025-02-07 22:02:22 +0000"
+      "in_water": "2025-02-08 02:36:45 +0000"
     },
     "done": true
   },
@@ -172,9 +550,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_slab_woodcutting": {
+  "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
-      "give_recipe": "2025-02-07 23:33:28 +0000"
+      "has_planks": "2025-02-08 02:36:44 +0000"
     },
     "done": true
   },
@@ -202,6 +580,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-02-08 02:36:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-02-07 22:02:22 +0000"
@@ -214,9 +598,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/dark_oak/barrel_from_dark_oak_slab_woodcutting": {
+  "minecraft:recipes/redstone/oak_door": {
     "criteria": {
-      "give_recipe": "2025-02-07 23:33:28 +0000"
+      "has_planks": "2025-02-08 02:36:44 +0000"
     },
     "done": true
   },
@@ -226,21 +610,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-02-07 22:10:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-02-07 22:09:12 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:root": {
-    "criteria": {
-      "custom_test_name": "2025-02-07 21:57:31 +0000"
     },
     "done": true
   },
@@ -250,9 +622,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/dark_oak/dark_oak_stairs_from_dark_oak_slab_woodcutting": {
+  "smallships:recipes/misc/sail": {
     "criteria": {
-      "give_recipe": "2025-02-07 23:33:28 +0000"
+      "in_water": "2025-02-08 02:36:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_galley": {
+    "criteria": {
+      "in_water": "2025-02-08 02:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-02-08 02:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_pressure_plate_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 02:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/chest_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 02:36:44 +0000"
     },
     "done": true
   },
@@ -262,27 +658,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/dark_oak/dark_oak_sign_from_dark_oak_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-07 23:33:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2025-02-07 22:02:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/dark_oak/dark_oak_boat_from_dark_oak_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-07 23:33:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-02-07 22:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_door_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 02:36:44 +0000"
     },
     "done": true
   },
@@ -292,9 +676,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/dark_oak/dark_oak_button_from_dark_oak_slab_woodcutting": {
+  "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_planks_woodcutting": {
     "criteria": {
-      "give_recipe": "2025-02-07 23:33:28 +0000"
+      "give_recipe": "2025-02-08 02:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-08 02:36:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_galley": {
+    "criteria": {
+      "in_water": "2025-02-08 02:36:45 +0000"
     },
     "done": true
   },
@@ -304,39 +700,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
+  "smallships:recipes/transportation/mangrove_brigg": {
     "criteria": {
-      "has_egg": "2025-02-07 22:00:06 +0000"
+      "in_water": "2025-02-08 02:36:45 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_andesite": {
+  "smallships:recipes/transportation/spruce_galley": {
     "criteria": {
-      "has_cobblestone": "2025-02-07 22:02:22 +0000"
+      "in_water": "2025-02-08 02:36:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/dark_oak/chest_from_dark_oak_slab_woodcutting": {
+  "minecraft:recipes/woodcutting/oak/barrel_from_oak_planks_woodcutting": {
     "criteria": {
-      "give_recipe": "2025-02-07 23:33:28 +0000"
+      "give_recipe": "2025-02-08 02:36:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
+  "smallships:recipes/transportation/acacia_drakkar": {
     "criteria": {
-      "has_cobblestone": "2025-02-07 22:02:22 +0000"
+      "in_water": "2025-02-08 02:36:45 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/twilightforest/wood/dark_oak_banister": {
+  "smallships:recipes/transportation/spruce_brigg": {
     "criteria": {
-      "has_item": "2025-02-07 23:33:28 +0000"
+      "in_water": "2025-02-08 02:36:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal": {
+  "minecraft:recipes/woodcutting/oak/oak_chest_boat_from_oak_planks_woodcutting": {
     "criteria": {
-      "has_bone": "2025-02-07 23:35:30 +0000"
+      "give_recipe": "2025-02-08 02:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_shovel": "2025-02-08 02:38:21 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_brigg": {
+    "criteria": {
+      "in_water": "2025-02-08 02:36:45 +0000"
     },
     "done": true
   },
@@ -346,27 +754,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+  "smallships:recipes/transportation/dark_oak_brigg": {
     "criteria": {
-      "has_cobblestone": "2025-02-07 22:02:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/dark_oak/dark_oak_chest_boat_from_dark_oak_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-07 23:33:28 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/laser_block": {
-    "criteria": {
-      "has_stone": "2025-02-07 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/butchercraft.items/butcherblock": {
-    "criteria": {
-      "has_wood": "2025-02-07 23:33:28 +0000"
+      "in_water": "2025-02-08 02:36:45 +0000"
     },
     "done": true
   },
@@ -382,15 +772,45 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/dark_oak_cog": {
+    "criteria": {
+      "in_water": "2025-02-08 02:36:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-02-07 22:10:09 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
+  "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
-      "has_leather": "2025-02-07 22:09:13 +0000"
+      "has_planks": "2025-02-08 02:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-08 02:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-08 02:36:45 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_cog": {
+    "criteria": {
+      "in_water": "2025-02-08 02:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_button_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 02:36:44 +0000"
     },
     "done": true
   },
@@ -400,15 +820,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_horse_armor": {
+  "smallships:recipes/transportation/mangrove_drakkar": {
     "criteria": {
-      "has_leather": "2025-02-07 22:09:13 +0000"
+      "in_water": "2025-02-08 02:36:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_leggings": {
+  "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
-      "has_leather": "2025-02-07 22:09:13 +0000"
+      "has_planks": "2025-02-08 02:36:44 +0000"
     },
     "done": true
   },
