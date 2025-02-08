@@ -4564,3 +4564,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Feb2025 22:17:48.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set the time to 1000]
 [08Feb2025 22:17:53.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Survival Mode]
 [08Feb2025 22:18:39.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Creative Mode]
+[08Feb2025 22:21:28.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[08Feb2025 22:21:40.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Creative Mode]
+[08Feb2025 22:22:13.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set the weather to clear]
+[08Feb2025 22:27:26.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set the weather to clear]
