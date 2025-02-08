@@ -4556,3 +4556,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Feb2025 22:07:38.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
 [08Feb2025 22:08:01.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EroDragonEx moved too quickly! 9.044232873969463,-4.537940978744601,0.7936187070002916
 [08Feb2025 22:08:01.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Creative Mode]
+[08Feb2025 22:11:27.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[08Feb2025 22:11:31.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EroDragonEx has made the advancement [Hanging Tree]
+[08Feb2025 22:13:07.198] [Worker-Main-47/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=809, y=-27, z=761}
+[08Feb2025 22:13:07.199] [Worker-Main-47/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=809, y=-26, z=760}
+[08Feb2025 22:13:16.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Creative Mode]
+[08Feb2025 22:17:48.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set the time to 1000]
+[08Feb2025 22:17:53.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[08Feb2025 22:18:39.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EroDragonEx: Set own game mode to Creative Mode]

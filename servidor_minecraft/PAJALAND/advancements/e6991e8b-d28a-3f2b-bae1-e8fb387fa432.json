@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-08 22:18:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 23:33:28 +0000"
@@ -281,6 +287,12 @@
     },
     "done": true
   },
+  "butchercraft:recipes/butchercraft.items/mutton_scrap_to_ground_mutton": {
+    "criteria": {
+      "has_mutton_scrap": "2025-02-08 22:05:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-02-08 04:11:37 +0000"
@@ -374,6 +386,24 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-02-07 22:00:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-02-08 22:05:24 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/lamb_block": {
+    "criteria": {
+      "has_lamb": "2025-02-08 22:05:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-02-08 22:18:59 +0000"
     },
     "done": true
   },
@@ -473,6 +503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-08 22:18:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-02-08 21:48:57 +0000"
@@ -569,9 +605,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-02-08 22:18:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-08 02:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-02-08 22:18:59 +0000"
     },
     "done": true
   },
@@ -662,6 +710,12 @@
   "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-02-08 21:11:59 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/cooked_lamb_scraps_from_smoking": {
+    "criteria": {
+      "has_lamb_scraps": "2025-02-08 22:05:38 +0000"
     },
     "done": true
   },
@@ -803,6 +857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-08 22:05:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_door_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 23:33:28 +0000"
@@ -913,9 +973,16 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2025-02-08 04:02:26 +0000"
+      "minecraft:spider": "2025-02-08 04:02:26 +0000",
+      "minecraft:husk": "2025-02-08 22:18:21 +0000"
     },
     "done": false
+  },
+  "graveyard:graveyard/dead_tree": {
+    "criteria": {
+      "dead_tree": "2025-02-08 22:11:31 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
@@ -1007,6 +1074,12 @@
     },
     "done": true
   },
+  "butchercraft:recipes/butchercraft.items/cooked_lamb_scraps_from_campfire_cooking": {
+    "criteria": {
+      "has_lamb_scraps": "2025-02-08 22:05:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 23:33:28 +0000"
@@ -1076,6 +1149,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-08 21:11:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-08 22:18:59 +0000"
     },
     "done": true
   },
@@ -1175,6 +1254,12 @@
     },
     "done": true
   },
+  "butchercraft:recipes/butchercraft.items/lamb_block_to_scraps": {
+    "criteria": {
+      "has_lamb": "2025-02-08 22:05:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-08 02:36:44 +0000"
@@ -1214,6 +1299,12 @@
   "securitycraft:recipes/securitycraft/reinforced_glass_pane": {
     "criteria": {
       "has_glass": "2025-02-08 21:11:59 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/cooked_lamb_scraps_from_smelting": {
+    "criteria": {
+      "has_lamb_scraps": "2025-02-08 22:05:38 +0000"
     },
     "done": true
   },
@@ -1292,6 +1383,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-02-08 03:57:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-02-08 22:04:09 +0000"
     },
     "done": true
   },
@@ -1463,6 +1560,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-08 22:18:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_black_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-08 21:11:59 +0000"
@@ -1535,6 +1638,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-02-08 22:18:59 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/leather_cord": {
+    "criteria": {
+      "has_scrap": "2025-02-08 22:17:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-08 22:18:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-02-08 03:49:58 +0000"
@@ -1544,6 +1665,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-08 03:12:42 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-02-08 22:05:08 +0000"
     },
     "done": true
   },
@@ -1562,6 +1689,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2025-02-08 02:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-08 22:18:59 +0000"
     },
     "done": true
   },
@@ -1683,6 +1816,12 @@
   "securitycraft:recipes/securitycraft/secret_acacia_sign_item": {
     "criteria": {
       "has_sign": "2025-02-08 03:12:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-08 22:05:24 +0000"
     },
     "done": true
   },
@@ -1991,6 +2130,12 @@
   "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_stairs_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-08 02:51:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-02-08 22:18:59 +0000"
     },
     "done": true
   },
