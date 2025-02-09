@@ -1,31 +1,7 @@
 {
-  "minecraft:recipes/building_blocks/pink_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-02-09 20:03:42 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/butchercraft.items/pork_block": {
-    "criteria": {
-      "has_pork": "2025-02-09 20:40:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-02-09 20:03:42 +0000"
-    },
-    "done": true
-  },
   "spartanshields:recipes/spartanshields/stone_tower_shield": {
     "criteria": {
       "has_cobblestone": "2025-02-09 20:33:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-02-09 20:33:25 +0000"
     },
     "done": true
   },
@@ -35,27 +11,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_diorite": {
-    "criteria": {
-      "has_cobblestone": "2025-02-09 20:33:25 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/birch_drakkar": {
     "criteria": {
       "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/spartanshields/stone_basic_shield": {
-    "criteria": {
-      "has_cobblestone": "2025-02-09 20:33:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-02-09 20:03:42 +0000"
     },
     "done": true
   },
@@ -65,9 +23,9 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/oak_brigg": {
+  "butchercraft:recipes/butchercraft.items/beef_block_to_scraps": {
     "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
+      "has_beef": "2025-02-09 20:47:59 +0000"
     },
     "done": true
   },
@@ -83,48 +41,13 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/birch_galley": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-09 20:03:42 +0000"
     },
     "done": true
   },
-  "smallships:recipes/transportation/oak_drakkar": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-02-09 20:03:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:beach": "2025-02-09 20:00:11 +0000",
-      "minecraft:river": "2025-02-09 20:00:59 +0000",
-      "minecraft:forest": "2025-02-09 20:13:45 +0000",
-      "minecraft:desert": "2025-02-09 20:06:58 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-02-09 20:33:14 +0000",
-      "minecraft:plains": "2025-02-09 19:58:36 +0000"
-    },
-    "done": false
-  },
-  "smallships:recipes/transportation/birch_brigg": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-02-09 20:03:42 +0000"
     },
@@ -142,30 +65,6 @@
     },
     "done": true
   },
-  "undead_unleashed:undead_unleashed": {
-    "criteria": {
-      "undead_unleashed": "2025-02-09 19:58:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/dark_oak_drakkar": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "pizzacraft:root": {
-    "criteria": {
-      "tick": "2025-02-09 19:58:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-02-09 20:04:34 +0000"
@@ -173,18 +72,6 @@
     "done": true
   },
   "smallships:recipes/transportation/spruce_drakkar": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/butchercraft.items/cooked_pork_scraps_from_smoking": {
-    "criteria": {
-      "has_pork_scraps": "2025-02-09 20:40:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-02-09 20:04:34 +0000"
     },
@@ -214,39 +101,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/sonic_security_system": {
-    "criteria": {
-      "has_stick": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-02-09 20:03:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-02-09 20:08:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "knight_quest:kq_quest_source": {
-    "criteria": {
-      "kq_quest_source": "2025-02-09 19:58:35 +0000"
     },
     "done": true
   },
@@ -256,31 +113,7 @@
     },
     "done": true
   },
-  "smallships:recipes/misc/sail": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/acacia_galley": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/motion_activated_light": {
-    "criteria": {
-      "has_stick": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/mangrove_galley": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-02-09 20:04:34 +0000"
     },
@@ -289,12 +122,6 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-09 20:33:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2025-02-09 20:03:42 +0000"
     },
     "done": true
   },
@@ -313,12 +140,6 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-02-09 20:08:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-02-09 20:03:42 +0000"
     },
     "done": true
   },
@@ -352,39 +173,21 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/oak_galley": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2025-02-09 20:03:42 +0000"
     },
     "done": true
   },
+  "butchercraft:recipes/butchercraft.items/beef_block": {
+    "criteria": {
+      "has_beef": "2025-02-09 20:47:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2025-02-09 20:33:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/mangrove_brigg": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/spruce_galley": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
     },
     "done": true
   },
@@ -406,18 +209,6 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/acacia_drakkar": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/spruce_brigg": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
   "butchercraft:recipes/butchercraft.items/cooked_pork_scraps_from_smelting": {
     "criteria": {
       "has_pork_scraps": "2025-02-09 20:40:37 +0000"
@@ -430,9 +221,9 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/jungle_brigg": {
+  "butchercraft:recipes/butchercraft.items/cooked_beef_scraps_from_smoking": {
     "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
+      "has_beef_scraps": "2025-02-09 20:47:59 +0000"
     },
     "done": true
   },
@@ -448,15 +239,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
+  "butchercraft:recipes/butchercraft.items/cooked_beef_scraps_from_smelting": {
     "criteria": {
-      "has_sand": "2025-02-09 20:03:42 +0000"
+      "has_beef_scraps": "2025-02-09 20:47:59 +0000"
     },
     "done": true
   },
-  "smallships:recipes/transportation/dark_oak_brigg": {
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
+      "has_sand": "2025-02-09 20:03:42 +0000"
     },
     "done": true
   },
@@ -472,25 +263,7 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/dark_oak_cog": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_stick": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2025-02-09 20:04:34 +0000"
     },
@@ -508,33 +281,15 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/spruce_cog": {
+  "mca:recipes/misc/whistle": {
     "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/mangrove_drakkar": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-02-09 20:33:25 +0000"
+      "has_item": "2025-02-09 20:46:00 +0000"
     },
     "done": true
   },
   "smallships:recipes/transportation/jungle_cog": {
     "criteria": {
       "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-02-09 20:03:42 +0000"
     },
     "done": true
   },
@@ -550,13 +305,324 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+  "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2025-02-09 20:03:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-09 20:03:42 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/pork_block": {
+    "criteria": {
+      "has_pork": "2025-02-09 20:40:37 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/cooked_beef_scraps_from_campfire_cooking": {
+    "criteria": {
+      "has_beef_scraps": "2025-02-09 20:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-09 20:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-09 20:33:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-02-09 20:33:25 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/stone_basic_shield": {
+    "criteria": {
+      "has_cobblestone": "2025-02-09 20:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-09 20:03:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_brigg": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_galley": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_drakkar": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2025-02-09 20:00:11 +0000",
+      "minecraft:river": "2025-02-09 20:00:59 +0000",
+      "minecraft:forest": "2025-02-09 20:13:45 +0000",
+      "minecraft:desert": "2025-02-09 20:06:58 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-02-09 20:33:14 +0000",
+      "minecraft:plains": "2025-02-09 19:58:36 +0000"
+    },
+    "done": false
+  },
+  "smallships:recipes/transportation/birch_brigg": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-09 20:03:42 +0000"
+    },
+    "done": true
+  },
+  "undead_unleashed:undead_unleashed": {
+    "criteria": {
+      "undead_unleashed": "2025-02-09 19:58:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_drakkar": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "pizzacraft:root": {
+    "criteria": {
+      "tick": "2025-02-09 19:58:35 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/cooked_pork_scraps_from_smoking": {
+    "criteria": {
+      "has_pork_scraps": "2025-02-09 20:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-09 20:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-09 20:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/pork_scrap_to_ground_pork": {
+    "criteria": {
+      "has_pork_scrap": "2025-02-09 20:47:59 +0000"
+    },
+    "done": true
+  },
+  "knight_quest:kq_quest_source": {
+    "criteria": {
+      "kq_quest_source": "2025-02-09 19:58:35 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/misc/sail": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/motion_activated_light": {
+    "criteria": {
+      "has_stick": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_galley": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-02-09 20:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-09 20:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-09 20:03:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_galley": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_brigg": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_galley": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_drakkar": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_brigg": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_brigg": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_brigg": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_cog": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/beef_scrap_to_ground_beef": {
+    "criteria": {
+      "has_beef_scrap": "2025-02-09 20:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_cog": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-09 20:45:50 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_drakkar": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-02-09 20:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-09 20:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-09 20:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-09 20:03:42 +0000"
     },
