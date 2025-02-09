@@ -4797,3 +4797,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Feb2025 20:15:57.288] [WorldEdit Task Executor - 4/WARN] [com.sk89q.worldedit.extent.clipboard.io.MCEditSchematicReader/]: Unknown block when loading schematic: 31:3. This is most likely a bad schematic.
 [09Feb2025 20:15:57.292] [WorldEdit Task Executor - 4/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: Sofx0Loder loaded /workspaces/legendary-octo-umbrella/servidor_minecraft/config/worldedit/schematics/nbbshop1.schematic
 [09Feb2025 20:16:09.550] [WorldEdit Task Executor - 4/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: Sofx0Loder loaded /workspaces/legendary-octo-umbrella/servidor_minecraft/config/worldedit/schematics/nbbshop3.schematic
+[09Feb2025 20:17:04.551] [WorldEdit Task Executor - 4/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: Sofx0Loder loaded /workspaces/legendary-octo-umbrella/servidor_minecraft/config/worldedit/schematics/nbbapothecary.schematic
+[09Feb2025 20:18:27.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder lost connection: Disconnected
+[09Feb2025 20:18:27.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder left the game
+[09Feb2025 20:18:27.189] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sofx0Loder
+[09Feb2025 20:23:49.571] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@31147fd6
+[09Feb2025 20:23:49.584] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sofx0Loder[/127.25.68.214:33511] logged in with entity id 9168 at (211.03247322399113, 125.49313717249058, 314.74703492926085)
+[09Feb2025 20:23:49.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder joined the game
+[09Feb2025 20:23:49.663] [Server thread/INFO] [Jade/]: Syncing config to Sofx0Loder (cf29b5c6-0b9d-3984-a750-655110aa4d25)
+[09Feb2025 20:23:51.244] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sofx0Loder (18)
+[09Feb2025 20:23:51.245] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sofx0Loder
+[09Feb2025 20:23:56.367] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf29b5c6-0b9d-3984-a750-655110aa4d25
+[09Feb2025 20:23:57.367] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf29b5c6-0b9d-3984-a750-655110aa4d25
+[09Feb2025 20:23:57.368] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sofx0Loder (cf29b5c6-0b9d-3984-a750-655110aa4d25) successfully connected to voice chat
+[09Feb2025 20:24:08.035] [WorldEdit Task Executor - 5/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: Sofx0Loder loaded /workspaces/legendary-octo-umbrella/servidor_minecraft/config/worldedit/schematics/nbbhouse.schematic
+[09Feb2025 20:25:09.738] [WorldEdit Task Executor - 6/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: Sofx0Loder loaded /workspaces/legendary-octo-umbrella/servidor_minecraft/config/worldedit/schematics/nbbhouse.schematic
+[09Feb2025 20:26:41.108] [WorldEdit Task Executor - 7/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: Sofx0Loder loaded /workspaces/legendary-octo-umbrella/servidor_minecraft/config/worldedit/schematics/nbbguardtower.schematic
+[09Feb2025 20:27:24.895] [WorldEdit Task Executor - 7/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: Sofx0Loder loaded /workspaces/legendary-octo-umbrella/servidor_minecraft/config/worldedit/schematics/nbbwatchtower.schematic
+[09Feb2025 20:27:40.789] [WorldEdit Task Executor - 7/WARN] [com.sk89q.worldedit.extent.clipboard.io.MCEditSchematicReader/]: Unknown block when loading schematic: 0:1. This is most likely a bad schematic.
+[09Feb2025 20:27:40.790] [WorldEdit Task Executor - 7/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: Sofx0Loder loaded /workspaces/legendary-octo-umbrella/servidor_minecraft/config/worldedit/schematics/mbbwatchtower.schematic
+[09Feb2025 20:32:02.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[09Feb2025 20:32:07.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[09Feb2025 20:38:31.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[09Feb2025 20:38:37.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[09Feb2025 20:39:18.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[09Feb2025 20:39:22.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[09Feb2025 20:40:45.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[09Feb2025 20:40:53.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]

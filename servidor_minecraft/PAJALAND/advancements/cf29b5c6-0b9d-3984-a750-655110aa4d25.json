@@ -5,9 +5,27 @@
     },
     "done": true
   },
+  "butchercraft:recipes/butchercraft.items/pork_block": {
+    "criteria": {
+      "has_pork": "2025-02-09 20:40:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-09 20:03:42 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/stone_tower_shield": {
+    "criteria": {
+      "has_cobblestone": "2025-02-09 20:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-09 20:33:25 +0000"
     },
     "done": true
   },
@@ -17,9 +35,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-02-09 20:33:25 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/birch_drakkar": {
     "criteria": {
       "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/stone_basic_shield": {
+    "criteria": {
+      "has_cobblestone": "2025-02-09 20:33:25 +0000"
     },
     "done": true
   },
@@ -81,7 +111,9 @@
     "criteria": {
       "minecraft:beach": "2025-02-09 20:00:11 +0000",
       "minecraft:river": "2025-02-09 20:00:59 +0000",
+      "minecraft:forest": "2025-02-09 20:13:45 +0000",
       "minecraft:desert": "2025-02-09 20:06:58 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-02-09 20:33:14 +0000",
       "minecraft:plains": "2025-02-09 19:58:36 +0000"
     },
     "done": false
@@ -92,15 +124,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-02-09 20:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-02-09 20:04:34 +0000"
     },
     "done": true
   },
@@ -146,9 +178,21 @@
     },
     "done": true
   },
+  "butchercraft:recipes/butchercraft.items/cooked_pork_scraps_from_smoking": {
+    "criteria": {
+      "has_pork_scraps": "2025-02-09 20:40:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-02-09 20:40:37 +0000"
     },
     "done": true
   },
@@ -242,6 +286,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-09 20:33:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2025-02-09 20:03:42 +0000"
@@ -254,21 +304,27 @@
     },
     "done": true
   },
+  "butchercraft:recipes/butchercraft.items/pork_block_to_scraps": {
+    "criteria": {
+      "has_pork": "2025-02-09 20:40:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-02-09 20:08:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-09 20:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-02-09 20:04:34 +0000"
     },
     "done": true
   },
@@ -284,15 +340,21 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/oak_galley": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
+      "has_mossy_cobblestone": "2025-02-09 20:33:25 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-09 20:03:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_galley": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
     },
     "done": true
   },
@@ -305,6 +367,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2025-02-09 20:03:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-02-09 20:33:25 +0000"
     },
     "done": true
   },
@@ -332,6 +400,12 @@
     },
     "done": true
   },
+  "butchercraft:recipes/butchercraft.items/cooked_pork_scraps_from_campfire_cooking": {
+    "criteria": {
+      "has_pork_scraps": "2025-02-09 20:40:37 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/acacia_drakkar": {
     "criteria": {
       "in_water": "2025-02-09 20:04:34 +0000"
@@ -341,6 +415,12 @@
   "smallships:recipes/transportation/spruce_brigg": {
     "criteria": {
       "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/cooked_pork_scraps_from_smelting": {
+    "criteria": {
+      "has_pork_scraps": "2025-02-09 20:40:37 +0000"
     },
     "done": true
   },
@@ -356,15 +436,15 @@
     },
     "done": true
   },
-  "spartanshields:recipes/spartanshields/obsidian_basic_shield": {
-    "criteria": {
-      "has_obsidian": "2025-02-09 20:08:59 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/acacia_brigg": {
     "criteria": {
       "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-02-09 20:08:59 +0000"
     },
     "done": true
   },
@@ -377,6 +457,12 @@
   "smallships:recipes/transportation/dark_oak_brigg": {
     "criteria": {
       "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-09 20:33:25 +0000"
     },
     "done": true
   },
@@ -410,12 +496,6 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/spruce_cog": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-09 20:03:42 +0000"
@@ -428,9 +508,21 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/spruce_cog": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/mangrove_drakkar": {
     "criteria": {
       "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-09 20:33:25 +0000"
     },
     "done": true
   },
@@ -443,6 +535,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-09 20:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-09 20:33:25 +0000"
     },
     "done": true
   },
