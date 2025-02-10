@@ -4392,3 +4392,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'jeg:hk_g36'
 [10Feb2025 01:55:28.637] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [012b0kvqfnuxh]: Consuming argument `water`
 [10Feb2025 01:55:28.637] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [012b0kvqfnuxh]: Consuming argument `air`
 [10Feb2025 01:55:28.637] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [012b0kvqfnuxh]: Finished looking at arguments. Finalizing command.
+[10Feb2025 01:56:19.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
+[10Feb2025 01:56:19.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
+[10Feb2025 02:01:19.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
+[10Feb2025 02:01:19.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
