@@ -569,3 +569,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'jeg:hk_g36'
 [10Feb2025 03:02:11.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
 [10Feb2025 03:08:24.908] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Riobeard'/39000, l='ServerLevel[pagdfgdfgdfg]', x=259.57, y=81.00, z=258.49] died, message: 'Riobeard was slain by Sofx0Loder'
 [10Feb2025 03:08:30.453] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Morry'/39007, l='ServerLevel[pagdfgdfgdfg]', x=266.83, y=82.00, z=251.08] died, message: 'Morry was slain by Sofx0Loder'
+[10Feb2025 03:22:32.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 03:22:41.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 03:22:47.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 03:23:10.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 03:25:35.205] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Olive'/39756, l='ServerLevel[pagdfgdfgdfg]', x=327.50, y=69.00, z=320.53] died, message: 'Olive went up in flames'
+[10Feb2025 03:25:52.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 03:25:55.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 03:26:34.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 03:26:36.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 03:26:51.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 03:27:05.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 03:27:13.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 03:27:16.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]

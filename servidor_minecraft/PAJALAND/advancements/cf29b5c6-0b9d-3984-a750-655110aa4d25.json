@@ -1,19 +1,7 @@
 {
-  "spartanshields:recipes/spartanshields/stone_tower_shield": {
-    "criteria": {
-      "has_cobblestone": "2025-02-09 20:33:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_wool": {
-    "criteria": {
-      "has_white_wool": "2025-02-09 21:15:24 +0000"
     },
     "done": true
   },
@@ -35,24 +23,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-02-10 00:02:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-02-09 20:03:42 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/jungle_drakkar": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-02-10 02:08:06 +0000"
@@ -68,12 +38,6 @@
   "butchercraft:recipes/butchercraft.items/chicken_block_to_scraps": {
     "criteria": {
       "has_chicken": "2025-02-09 23:40:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_bed": {
-    "criteria": {
-      "has_white_wool": "2025-02-09 21:15:24 +0000"
     },
     "done": true
   },
@@ -95,21 +59,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_green_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-02-09 21:04:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-09 21:04:28 +0000"
     },
     "done": true
   },
@@ -125,6 +77,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_trapdoor_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-10 03:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_pressure_plate_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-10 03:16:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-09 20:03:42 +0000"
@@ -134,18 +98,6 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-10 00:02:47 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/butchercraft.items/cooked_chicken_scraps_from_smoking": {
-    "criteria": {
-      "has_chicken_scraps": "2025-02-09 23:40:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2025-02-09 20:04:34 +0000"
     },
     "done": true
   },
@@ -179,12 +131,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_stone": "2025-02-10 02:08:06 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_red_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-02-09 22:29:11 +0000"
@@ -203,57 +149,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_stairs_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-10 00:02:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-02-09 20:40:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-10 00:02:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-02-09 20:03:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-02-10 02:08:06 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_red_stained_glass_pane_from_glass": {
-    "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-10 02:08:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2025-02-10 02:39:10 +0000"
     },
     "done": true
   },
@@ -287,33 +191,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-10 00:02:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_wool": {
-    "criteria": {
-      "has_white_wool": "2025-02-09 21:15:24 +0000"
-    },
-    "done": true
-  },
   "butchercraft:recipes/butchercraft.items/mutton_scrap_to_ground_mutton": {
     "criteria": {
       "has_mutton_scrap": "2025-02-09 21:15:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-02-10 02:25:30 +0000"
     },
     "done": true
   },
@@ -359,12 +239,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-09 22:29:11 +0000"
@@ -377,39 +251,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-09 21:04:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-10 00:02:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2025-02-09 20:08:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_blue_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_red_mushroom": "2025-02-09 20:03:42 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/butchercraft.items/beef_block": {
-    "criteria": {
-      "has_beef": "2025-02-09 20:47:59 +0000"
     },
     "done": true
   },
@@ -419,27 +263,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/gray_wool": {
-    "criteria": {
-      "has_white_wool": "2025-02-09 21:15:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-02-09 23:40:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-10 00:02:47 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/butchercraft.items/lamb_block": {
-    "criteria": {
-      "has_lamb": "2025-02-09 21:15:24 +0000"
     },
     "done": true
   },
@@ -449,45 +275,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/framed_blocks/framed_vertical_double_stairs": {
-    "criteria": {
-      "hasFramedStairs": "2025-02-09 23:04:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-02-10 00:02:53 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/jungle_galley": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/butchercraft.items/cooked_beef_scraps_from_smoking": {
-    "criteria": {
-      "has_beef_scraps": "2025-02-09 20:47:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/acacia_brigg": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
     },
     "done": true
   },
@@ -497,33 +287,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2025-02-10 00:02:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-09 21:04:28 +0000"
-    },
-    "done": true
-  },
   "butchercraft:recipes/butchercraft.items/cooked_beef_scraps_from_smelting": {
     "criteria": {
       "has_beef_scraps": "2025-02-09 20:47:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass_pane_from_glass": {
-    "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2025-02-10 02:39:10 +0000"
     },
     "done": true
   },
@@ -539,27 +305,9 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/dark_oak_galley": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_red_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_banner": {
-    "criteria": {
-      "has_white_wool": "2025-02-09 21:15:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-10 00:02:38 +0000"
     },
     "done": true
   },
@@ -569,39 +317,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-02-09 20:03:42 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-02-09 20:33:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-10 00:02:47 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/keypad_item": {
-    "criteria": {
-      "has_stone_button": "2025-02-10 00:00:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_sand": "2025-02-09 20:03:42 +0000"
     },
     "done": true
   },
@@ -617,39 +335,15 @@
     },
     "done": true
   },
-  "butchercraft:recipes/butchercraft.items/cooked_beef_scraps_from_campfire_cooking": {
-    "criteria": {
-      "has_beef_scraps": "2025-02-09 20:47:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-02-09 20:33:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-02-10 00:02:33 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/spartanshields/stone_basic_shield": {
-    "criteria": {
-      "has_cobblestone": "2025-02-09 20:33:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-09 22:29:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+  "minecraft:recipes/woodcutting/birch/birch_door_from_birch_planks_woodcutting": {
     "criteria": {
-      "has_sand": "2025-02-09 20:03:42 +0000"
+      "give_recipe": "2025-02-10 03:16:58 +0000"
     },
     "done": true
   },
@@ -677,12 +371,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2025-02-10 02:39:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-02-09 21:15:24 +0000"
@@ -692,24 +380,6 @@
   "smallships:recipes/transportation/birch_galley": {
     "criteria": {
       "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-02-10 00:02:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_green_stained_glass_pane_from_glass": {
-    "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2025-02-10 00:02:53 +0000"
     },
     "done": true
   },
@@ -737,18 +407,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass_pane_from_glass": {
-    "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/birch_brigg": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-02-09 22:54:44 +0000"
@@ -758,12 +416,6 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-02-09 20:03:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-02-09 21:07:20 +0000"
     },
     "done": true
   },
@@ -779,27 +431,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_wool": {
-    "criteria": {
-      "has_white_wool": "2025-02-09 21:15:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-10 00:02:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
     },
     "done": true
   },
@@ -809,27 +443,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-09 21:04:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-02-09 21:16:59 +0000"
-    },
-    "done": true
-  },
   "butchercraft:recipes/butchercraft.items/chicken_scrap_to_ground_chicken": {
     "criteria": {
       "has_chicken_scrap": "2025-02-09 23:40:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
     },
     "done": true
   },
@@ -845,27 +461,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/sonic_security_system": {
-    "criteria": {
-      "has_stick": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
   "iammusicplayer:iammusicplayer/listen_to_music": {
     "criteria": {
       "listen_to_music": "2025-02-09 21:25:35 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-10 00:02:47 +0000"
     },
     "done": true
   },
@@ -875,45 +473,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-02-09 20:03:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-02-09 20:08:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-02-09 20:04:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
+  "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
-      "has_log": "2025-02-09 21:07:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
+      "has_planks": "2025-02-10 03:16:58 +0000"
     },
     "done": true
   },
   "knight_quest:kq_quest_source": {
     "criteria": {
       "kq_quest_source": "2025-02-09 19:58:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2025-02-10 02:39:10 +0000"
     },
     "done": true
   },
@@ -941,12 +515,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2025-02-09 20:03:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/oak/chest_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-10 00:02:33 +0000"
@@ -965,21 +533,9 @@
     },
     "done": true
   },
-  "graveyard:graveyard/root": {
-    "criteria": {
-      "grave_01": "2025-02-09 22:32:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-10 02:08:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2025-02-10 02:39:10 +0000"
     },
     "done": true
   },
@@ -989,39 +545,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2025-02-10 00:02:53 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_yellow_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
   "framedblocks:recipes/framed_blocks/framed_vertical_half_stairs": {
     "criteria": {
       "hasFramedVerticalStairs": "2025-02-09 23:04:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2025-02-10 00:02:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-10 00:02:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2025-02-10 02:39:10 +0000"
     },
     "done": true
   },
@@ -1043,12 +569,6 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/acacia_drakkar": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-10 00:02:38 +0000"
@@ -1058,12 +578,6 @@
   "smallships:recipes/transportation/spruce_brigg": {
     "criteria": {
       "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_carpet": {
-    "criteria": {
-      "has_white_wool": "2025-02-09 21:15:24 +0000"
     },
     "done": true
   },
@@ -1085,33 +599,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-10 00:02:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
-    "criteria": {
-      "has_planks": "2025-02-10 00:02:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-02-10 01:48:39 +0000"
     },
     "done": true
   },
-  "smallships:recipes/transportation/jungle_brigg": {
+  "minecraft:recipes/woodcutting/birch/birch_fence_gate_from_birch_planks_woodcutting": {
     "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-10 00:02:38 +0000"
+      "give_recipe": "2025-02-10 03:16:58 +0000"
     },
     "done": true
   },
@@ -1121,33 +617,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glass_pane": {
-    "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
   "butchercraft:recipes/butchercraft.items/cooked_lamb_scraps_from_campfire_cooking": {
     "criteria": {
       "has_lamb_scraps": "2025-02-09 21:15:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magenta_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
       "has_yellow_wool": "2025-02-10 01:57:47 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2025-02-09 21:32:36 +0000"
     },
     "done": true
   },
@@ -1160,12 +638,6 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-10 00:02:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
     },
     "done": true
   },
@@ -1187,12 +659,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-02-09 20:45:50 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/mangrove_drakkar": {
     "criteria": {
       "in_water": "2025-02-09 20:04:34 +0000"
@@ -1211,12 +677,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2025-02-10 02:39:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-09 20:03:42 +0000"
@@ -1226,18 +686,6 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-02-10 00:02:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-02-09 20:03:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-09 21:04:28 +0000"
     },
     "done": true
   },
@@ -1265,24 +713,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_wool": {
-    "criteria": {
-      "has_white_wool": "2025-02-09 21:15:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2025-02-10 00:02:47 +0000"
-    },
-    "done": true
-  },
   "framedblocks:recipes/framed_blocks/framed_cube": {
     "criteria": {
       "hasPlanks": "2025-02-10 00:02:33 +0000"
@@ -1295,45 +725,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-02-09 21:15:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-02-10 02:08:06 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/acacia_cog": {
     "criteria": {
       "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "knight_quest:kq_pirate_quest_1": {
-    "criteria": {
-      "kq_pirate_quest_1": "2025-02-10 02:57:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-09 21:07:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_wool": {
-    "criteria": {
-      "has_white_wool": "2025-02-09 21:15:24 +0000"
     },
     "done": true
   },
@@ -1349,21 +749,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-09 21:04:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_wool": {
-    "criteria": {
-      "has_white_wool": "2025-02-09 21:15:24 +0000"
     },
     "done": true
   },
@@ -1379,39 +767,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-09 21:04:28 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/spruce_drakkar": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/butchercraft.items/cooked_lamb_scraps_from_smelting": {
-    "criteria": {
-      "has_lamb_scraps": "2025-02-09 21:15:24 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-10 00:02:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/chest_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-10 00:02:47 +0000"
     },
     "done": true
   },
@@ -1421,21 +779,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/painting": {
+  "minecraft:recipes/redstone/birch_button": {
     "criteria": {
-      "has_wool": "2025-02-09 21:15:24 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass_pane_from_glass": {
-    "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
+      "has_planks": "2025-02-10 03:16:58 +0000"
     },
     "done": true
   },
@@ -1451,12 +797,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/sunbird_blessing": {
-    "criteria": {
-      "all_effects": "2025-02-09 22:56:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-02-09 23:42:35 +0000"
@@ -1469,39 +809,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/sc_manual": {
-    "criteria": {
-      "has_wood": "2025-02-09 21:07:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2025-02-09 23:40:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2025-02-10 01:57:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2025-02-10 02:08:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-02-09 21:07:20 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_yellow_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
     },
     "done": true
   },
@@ -1517,9 +827,9 @@
     },
     "done": true
   },
-  "butchercraft:recipes/butchercraft.items/pork_block_to_scraps": {
+  "minecraft:recipes/woodcutting/birch/birch_button_from_birch_planks_woodcutting": {
     "criteria": {
-      "has_pork": "2025-02-09 20:40:37 +0000"
+      "give_recipe": "2025-02-10 03:16:58 +0000"
     },
     "done": true
   },
@@ -1535,33 +845,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2025-02-10 00:02:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-02-09 20:03:42 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/mangrove_cog": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/oak/oak_trapdoor_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-10 00:02:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-02-09 20:33:25 +0000"
     },
     "done": true
   },
@@ -1571,45 +857,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cyan_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
   "butchercraft:recipes/butchercraft.items/cooked_chicken_scraps_from_smelting": {
     "criteria": {
       "has_chicken_scraps": "2025-02-09 23:40:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_slab": {
-    "criteria": {
-      "has_planks": "2025-02-10 00:02:47 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_andesite": {
-    "criteria": {
-      "has_cobblestone": "2025-02-09 20:33:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-10 00:02:33 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/butchercraft.items/chicken_block": {
-    "criteria": {
-      "has_chicken": "2025-02-09 23:40:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-10 00:02:47 +0000"
     },
     "done": true
   },
@@ -1626,18 +876,6 @@
     "done": true
   },
   "butchercraft:recipes/butchercraft.items/cooked_pork_scraps_from_campfire_cooking": {
-    "criteria": {
-      "has_pork_scraps": "2025-02-09 20:40:37 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/framed_blocks/framed_vertical_stairs_rotate_to_framed_stairs": {
-    "criteria": {
-      "has_framed_vertical_stairs": "2025-02-09 23:04:38 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/butchercraft.items/cooked_pork_scraps_from_smelting": {
     "criteria": {
       "has_pork_scraps": "2025-02-09 20:40:37 +0000"
     },
@@ -1661,27 +899,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_black_stained_glass": {
+  "minecraft:recipes/woodcutting/birch/barrel_from_birch_planks_woodcutting": {
     "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-02-10 00:02:33 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/spartanshields/obsidian_basic_shield": {
-    "criteria": {
-      "has_obsidian": "2025-02-09 20:08:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-10 00:02:38 +0000"
+      "give_recipe": "2025-02-10 03:16:58 +0000"
     },
     "done": true
   },
@@ -1703,15 +923,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/laser_block": {
-    "criteria": {
-      "has_stone": "2025-02-10 02:08:06 +0000"
-    },
-    "done": true
-  },
   "butchercraft:recipes/butchercraft.items/leather_cord": {
     "criteria": {
       "has_scrap": "2025-02-09 22:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:16:58 +0000"
     },
     "done": true
   },
@@ -1727,12 +947,6 @@
     },
     "done": true
   },
-  "mca:recipes/misc/whistle": {
-    "criteria": {
-      "has_item": "2025-02-09 20:46:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-02-09 21:15:24 +0000"
@@ -1742,12 +956,6 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-10 00:02:47 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/jungle_cog": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
     },
     "done": true
   },
@@ -1763,34 +971,10 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-02-09 20:08:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_stairs_woodcutting_combine": {
     "criteria": {
       "give_recipe": "2025-02-09 23:42:37 +0000",
       "has_block": "2025-02-09 23:42:37 +0000"
-    },
-    "done": true
-  },
-  "knight_quest:kq_quest_build_first_armor": {
-    "criteria": {
-      "kq_quest_build_first_armor": "2025-02-10 02:54:48 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/butchercraft.items/pork_block": {
-    "criteria": {
-      "has_pork": "2025-02-09 20:40:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-09 23:42:35 +0000"
     },
     "done": true
   },
@@ -1812,21 +996,9 @@
     },
     "done": true
   },
-  "mca:recipes/misc/potions": {
-    "criteria": {
-      "has_item": "2025-02-09 23:40:33 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-02-09 20:33:25 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
     },
     "done": true
   },
@@ -1836,21 +1008,9 @@
     },
     "done": true
   },
-  "argentina_food_mod:fernet_advancement": {
-    "criteria": {
-      "fernet_advancement": "2025-02-09 21:42:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-09 21:07:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_button": {
-    "criteria": {
-      "has_planks": "2025-02-10 00:02:33 +0000"
     },
     "done": true
   },
@@ -1866,18 +1026,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-10 00:02:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-02-10 00:02:53 +0000"
@@ -1887,12 +1035,6 @@
   "smallships:recipes/transportation/oak_drakkar": {
     "criteria": {
       "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
     },
     "done": true
   },
@@ -1920,45 +1062,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
-  "undead_unleashed:undead_unleashed": {
-    "criteria": {
-      "undead_unleashed": "2025-02-09 19:58:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-10 00:02:47 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/dark_oak_drakkar": {
     "criteria": {
       "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/spartanshields/wooden_basic_shield": {
-    "criteria": {
-      "has_planks": "2025-02-10 00:02:33 +0000"
-    },
-    "done": true
-  },
-  "pizzacraft:root": {
-    "criteria": {
-      "tick": "2025-02-09 19:58:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-10 00:02:47 +0000"
     },
     "done": true
   },
@@ -1992,24 +1098,6 @@
     },
     "done": true
   },
-  "butchercraft:recipes/butchercraft.items/pork_scrap_to_ground_pork": {
-    "criteria": {
-      "has_pork_scrap": "2025-02-09 20:47:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_door": {
-    "criteria": {
-      "has_planks": "2025-02-10 00:02:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-09 22:29:11 +0000"
@@ -2028,33 +1116,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/motion_activated_light": {
-    "criteria": {
-      "has_stick": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/mangrove_galley": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-10 00:02:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
     },
     "done": true
   },
@@ -2064,39 +1128,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-10 00:02:47 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-02-09 22:29:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-02-09 20:45:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-02-10 02:08:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_slab_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-10 00:02:47 +0000"
     },
     "done": true
   },
@@ -2112,37 +1152,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_wool": {
-    "criteria": {
-      "has_white_wool": "2025-02-09 21:15:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/yellow_carpet": {
     "criteria": {
       "has_yellow_wool": "2025-02-10 01:57:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2025-02-10 02:39:10 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/mangrove_brigg": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/spruce_galley": {
     "criteria": {
       "in_water": "2025-02-09 20:04:34 +0000"
     },
@@ -2154,63 +1170,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_white_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2025-02-10 02:08:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/oak/oak_chest_boat_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-10 00:02:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-02-10 00:02:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-10 00:02:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-10 00:02:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_stairs_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-09 23:42:37 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-02-09 22:29:11 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/dark_oak_brigg": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/dark_oak_cog": {
-    "criteria": {
-      "in_water": "2025-02-09 20:04:34 +0000"
     },
     "done": true
   },
@@ -2223,12 +1191,6 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-10 00:02:38 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/butchercraft.items/beef_scrap_to_ground_beef": {
-    "criteria": {
-      "has_beef_scrap": "2025-02-09 20:47:59 +0000"
     },
     "done": true
   },
@@ -2256,12 +1218,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_stick": "2025-02-09 20:04:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/oak/oak_button_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-10 00:02:33 +0000"
@@ -2274,15 +1230,1203 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+  "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/crafting_table_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-10 03:16:58 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/stone_tower_shield": {
+    "criteria": {
+      "has_cobblestone": "2025-02-09 20:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-09 21:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-02-10 00:02:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-09 20:03:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_drakkar": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-02-09 21:15:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_green_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_slab_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-10 03:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-09 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/cooked_chicken_scraps_from_smoking": {
+    "criteria": {
+      "has_chicken_scraps": "2025-02-09 23:40:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:08:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_stairs_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-10 00:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-10 00:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-09 20:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:08:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_red_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-02-10 02:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-10 00:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-09 21:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-10 02:25:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-09 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-02-09 20:08:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-02-09 20:03:42 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/beef_block": {
+    "criteria": {
+      "has_beef": "2025-02-09 20:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-09 21:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-10 00:02:47 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/lamb_block": {
+    "criteria": {
+      "has_lamb": "2025-02-09 21:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_fence_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-10 03:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_vertical_double_stairs": {
+    "criteria": {
+      "hasFramedStairs": "2025-02-09 23:04:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_galley": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/cooked_beef_scraps_from_smoking": {
+    "criteria": {
+      "has_beef_scraps": "2025-02-09 20:47:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_brigg": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-02-10 00:02:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-09 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-02-10 02:39:10 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_galley": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_sign_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-10 03:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-02-09 21:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-10 00:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-09 20:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-09 20:33:25 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_glass": {
+  "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-10 00:02:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-02-10 00:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2025-02-09 20:03:42 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/cooked_beef_scraps_from_campfire_cooking": {
+    "criteria": {
+      "has_beef_scraps": "2025-02-09 20:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-09 20:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-10 00:02:33 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/stone_basic_shield": {
+    "criteria": {
+      "has_cobblestone": "2025-02-09 20:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-09 20:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-02-10 02:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-02-10 00:02:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_green_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-02-10 00:02:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_brigg": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-02-09 21:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-09 21:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-09 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-09 21:16:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-10 00:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-09 20:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-09 20:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-09 21:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-02-10 02:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-02-09 20:03:42 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-02-09 22:32:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-02-10 02:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-10 00:02:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-02-10 00:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-10 00:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-02-10 02:39:10 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_drakkar": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-02-09 21:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-10 00:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-10 00:02:47 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_brigg": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-10 00:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-02-09 21:32:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-09 20:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-02-10 02:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-09 20:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-09 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-09 21:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-02-10 00:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_stairs_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-10 03:16:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:08:06 +0000"
+    },
+    "done": true
+  },
+  "knight_quest:kq_pirate_quest_1": {
+    "criteria": {
+      "kq_pirate_quest_1": "2025-02-10 02:57:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-09 21:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-09 21:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-09 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-09 21:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-09 21:04:28 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_drakkar": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/cooked_lamb_scraps_from_smelting": {
+    "criteria": {
+      "has_lamb_scraps": "2025-02-09 21:15:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/chest_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-10 00:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-02-09 21:15:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-02-09 22:56:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-02-09 21:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-02-09 23:40:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-02-10 01:57:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:08:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_yellow_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/pork_block_to_scraps": {
+    "criteria": {
+      "has_pork": "2025-02-09 20:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-02-10 00:02:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-09 20:03:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_cog": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-09 20:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-02-10 00:02:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-02-09 20:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-10 00:02:33 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/chicken_block": {
+    "criteria": {
+      "has_chicken": "2025-02-09 23:40:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-10 00:02:47 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_vertical_stairs_rotate_to_framed_stairs": {
+    "criteria": {
+      "has_framed_vertical_stairs": "2025-02-09 23:04:38 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/cooked_pork_scraps_from_smelting": {
+    "criteria": {
+      "has_pork_scraps": "2025-02-09 20:40:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-10 00:02:33 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-02-09 20:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-10 00:02:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/laser_block": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:08:06 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2025-02-09 20:46:00 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_cog": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-09 20:08:59 +0000"
+    },
+    "done": true
+  },
+  "knight_quest:kq_quest_build_first_armor": {
+    "criteria": {
+      "kq_quest_build_first_armor": "2025-02-10 02:54:48 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/pork_block": {
+    "criteria": {
+      "has_pork": "2025-02-09 20:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-09 23:42:35 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-02-09 23:40:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-10 03:19:15 +0000"
+    },
+    "done": true
+  },
+  "argentina_food_mod:fernet_advancement": {
+    "criteria": {
+      "fernet_advancement": "2025-02-09 21:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-02-10 00:02:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-10 00:02:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "undead_unleashed:undead_unleashed": {
+    "criteria": {
+      "undead_unleashed": "2025-02-09 19:58:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-10 00:02:47 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/wooden_basic_shield": {
+    "criteria": {
+      "has_planks": "2025-02-10 00:02:33 +0000"
+    },
+    "done": true
+  },
+  "pizzacraft:root": {
+    "criteria": {
+      "tick": "2025-02-09 19:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-10 00:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_chest_boat_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-10 03:16:58 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/pork_scrap_to_ground_pork": {
+    "criteria": {
+      "has_pork_scrap": "2025-02-09 20:47:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-02-10 00:02:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/motion_activated_light": {
+    "criteria": {
+      "has_stick": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_galley": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-10 00:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-09 20:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_slab_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-10 00:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-09 21:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-02-10 02:39:10 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_galley": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-09 22:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-10 00:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-10 00:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-10 00:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-09 23:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/chest_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-10 03:16:58 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_brigg": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_cog": {
+    "criteria": {
+      "in_water": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/beef_scrap_to_ground_beef": {
+    "criteria": {
+      "has_beef_scrap": "2025-02-09 20:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2025-02-09 20:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_boat_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-10 03:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-09 20:33:25 +0000"
     },
     "done": true
   },
