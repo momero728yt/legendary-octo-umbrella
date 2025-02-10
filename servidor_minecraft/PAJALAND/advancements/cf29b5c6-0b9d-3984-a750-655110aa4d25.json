@@ -107,15 +107,15 @@
     },
     "done": true
   },
-  "butchercraft:recipes/butchercraft.items/gut_knife": {
-    "criteria": {
-      "has_iron": "2025-02-10 03:45:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/birch/birch_pressure_plate_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-10 03:16:58 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/gut_knife": {
+    "criteria": {
+      "has_iron": "2025-02-10 03:45:24 +0000"
     },
     "done": true
   },
@@ -842,6 +842,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-10 00:02:38 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/root": {
+    "criteria": {
+      "Install": "2025-02-10 04:47:28 +0000"
     },
     "done": true
   },
@@ -2727,15 +2733,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/mine": {
-    "criteria": {
-      "has_iron": "2025-02-10 03:45:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-02-10 03:16:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/mine": {
+    "criteria": {
+      "has_iron": "2025-02-10 03:45:24 +0000"
     },
     "done": true
   },
