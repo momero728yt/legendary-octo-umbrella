@@ -1,7 +1,37 @@
 {
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-02-10 07:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-02-10 07:48:00 +0000"
+    },
+    "done": true
+  },
+  "beautify:blinds": {
+    "criteria": {
+      "requirement": "2025-02-10 07:48:00 +0000"
+    },
+    "done": true
+  },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2025-02-10 06:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-02-10 07:48:00 +0000"
+    },
+    "done": true
+  },
+  "jeg:recipes/jeg/workbench": {
+    "criteria": {
+      "has_sticks": "2025-02-10 07:48:00 +0000"
     },
     "done": true
   },
@@ -17,6 +47,54 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-02-10 07:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-02-10 07:48:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2025-02-10 07:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-02-10 07:48:00 +0000"
+    },
+    "done": true
+  },
+  "beautify:trellis": {
+    "criteria": {
+      "requirement": "2025-02-10 07:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2025-02-10 07:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2025-02-10 07:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-02-10 07:48:00 +0000"
+    },
+    "done": true
+  },
   "knight_quest:kq_quest_source": {
     "criteria": {
       "kq_quest_source": "2025-02-10 06:33:25 +0000"
@@ -26,6 +104,12 @@
   "mca:monarch": {
     "criteria": {
       "baby": "2025-02-10 06:33:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/motion_activated_light": {
+    "criteria": {
+      "has_stick": "2025-02-10 07:48:00 +0000"
     },
     "done": true
   },
@@ -41,6 +125,12 @@
       "minecraft:plains": "2025-02-10 06:33:26 +0000"
     },
     "done": false
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-02-10 07:48:00 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3120
 }
