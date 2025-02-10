@@ -134,7 +134,7 @@
   "adjustPlayerEyesToHeight": false,
   "useModernUSANamesOnly": false,
   "guardsTargetEntities": {
-    "minecraft:creeper": -1,
+    "minecraft:creeper": 4,
     "minecraft:drowned": 2,
     "minecraft:evoker": 3,
     "minecraft:husk": 2,
@@ -146,8 +146,8 @@
     "minecraft:zoglin": 2,
     "minecraft:zombie": 4,
     "minecraft:zombie_villager": 3,
-    "minecraft:spider": 0,
-    "minecraft:skeleton": 0,
+    "minecraft:spider": 2,
+    "minecraft:skeleton": 3,
     "minecraft:slime": 0,
     "mca:female_zombie_villager": 3,
     "mca:male_zombie_villager": 3
