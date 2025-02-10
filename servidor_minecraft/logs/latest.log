@@ -15200,3 +15200,26 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 [10Feb2025 05:03:26.427] [Server thread/INFO] [forge.net.mca.MCA/]: literal{William}[style={}] has been infected
 [10Feb2025 05:03:30.825] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['William'/243, l='ServerLevel[pagdfgdfgdfg]', x=317.49, y=68.50, z=288.71] died, message: 'William was slain by Husk'
 [10Feb2025 05:03:30.826] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['William'/243, l='ServerLevel[pagdfgdfgdfg]', x=317.49, y=68.50, z=288.71] died: William was slain by Husk
+[10Feb2025 05:04:39.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set the time to 1000]
+[10Feb2025 05:05:07.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:05:25.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:07:07.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:07:27.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:08:40.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:08:44.293] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Tony}[style={}] has been infected
+[10Feb2025 05:08:47.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:08:49.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:08:52.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:09:55.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:10:20.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:13:03.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:13:06.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:13:30.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:13:32.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:13:39.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:13:41.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:14:11.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:14:13.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:14:20.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:14:22.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:14:24.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
