@@ -453,3 +453,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'jeg:hk_g36'
 [10Feb2025 01:16:34.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf29b5c6-0b9d-3984-a750-655110aa4d25
 [10Feb2025 01:16:34.356] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sofx0Loder (cf29b5c6-0b9d-3984-a750-655110aa4d25) successfully connected to voice chat
 [10Feb2025 01:25:28.116] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/1300, l='ServerLevel[pagdfgdfgdfg]', x=736.08, y=67.07, z=633.79]
+[10Feb2025 01:35:21.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 01:35:30.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 01:39:54.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> .
+[10Feb2025 01:39:59.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder lost connection: Disconnected
+[10Feb2025 01:39:59.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder left the game
+[10Feb2025 01:39:59.140] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sofx0Loder
+[10Feb2025 01:39:59.201] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Feb2025 01:40:17.040] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@41742532
+[10Feb2025 01:40:17.055] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sofx0Loder[/127.25.68.214:36065] logged in with entity id 5814 at (235.7858413068124, 71.64802793315408, 266.3446978474667)
+[10Feb2025 01:40:17.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder joined the game
+[10Feb2025 01:40:17.139] [Server thread/INFO] [Jade/]: Syncing config to Sofx0Loder (cf29b5c6-0b9d-3984-a750-655110aa4d25)
+[10Feb2025 01:40:18.638] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sofx0Loder (18)
+[10Feb2025 01:40:18.639] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sofx0Loder
+[10Feb2025 01:40:23.259] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf29b5c6-0b9d-3984-a750-655110aa4d25
+[10Feb2025 01:40:24.259] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf29b5c6-0b9d-3984-a750-655110aa4d25
+[10Feb2025 01:40:24.260] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sofx0Loder (cf29b5c6-0b9d-3984-a750-655110aa4d25) successfully connected to voice chat
