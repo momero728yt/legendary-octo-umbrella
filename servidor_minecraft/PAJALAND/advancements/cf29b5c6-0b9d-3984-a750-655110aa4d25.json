@@ -599,6 +599,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-10 05:14:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-02-09 21:07:20 +0000"
@@ -788,6 +794,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-10 00:02:38 +0000"
+    },
+    "done": true
+  },
+  "mca:monarch": {
+    "criteria": {
+      "baby": "2025-02-10 05:17:14 +0000"
     },
     "done": true
   },
@@ -1385,6 +1397,12 @@
       "has_glass": "2025-02-09 22:29:11 +0000"
     },
     "done": true
+  },
+  "mca:baby_dropped": {
+    "criteria": {
+      "baby": "2025-02-10 05:17:14 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/securitycraft/reinforced_diorite": {
     "criteria": {
@@ -3150,6 +3168,12 @@
   "minecraft:recipes/woodcutting/birch/birch_chest_boat_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-10 03:16:58 +0000"
+    },
+    "done": true
+  },
+  "mca:friendly_fire": {
+    "criteria": {
+      "male_fate": "2025-02-10 05:22:11 +0000"
     },
     "done": true
   },

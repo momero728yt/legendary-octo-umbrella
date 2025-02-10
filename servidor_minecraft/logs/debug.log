@@ -18746,3 +18746,93 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 [10Feb2025 05:14:20.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
 [10Feb2025 05:14:22.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
 [10Feb2025 05:14:24.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:14:31.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:14:57.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Sweet Dreams]
+[10Feb2025 05:15:07.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
+[10Feb2025 05:15:07.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
+[10Feb2025 05:15:35.079] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Reamonn'/46, l='ServerLevel[pagdfgdfgdfg]', x=202.49, y=64.00, z=135.22] died, message: 'Reamonn was slain by Revenant'
+[10Feb2025 05:15:35.079] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Reamonn'/46, l='ServerLevel[pagdfgdfgdfg]', x=202.49, y=64.00, z=135.22] died: Reamonn was slain by Revenant
+[10Feb2025 05:17:14.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has completed the challenge [Monarch]
+[10Feb2025 05:17:31.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:17:33.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:17:50.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:17:53.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:18:20.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:18:22.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:18:37.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:18:38.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:18:52.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:18:53.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:18:53.627] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Patrick}[style={}] has been infected
+[10Feb2025 05:18:53.628] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Patrick'/187, l='ServerLevel[pagdfgdfgdfg]', x=269.64, y=66.00, z=296.28] died, message: 'Patrick was slain by Zombie'
+[10Feb2025 05:18:53.629] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Patrick'/187, l='ServerLevel[pagdfgdfgdfg]', x=269.64, y=66.00, z=296.28] died: Patrick was slain by Zombie
+[10Feb2025 05:18:57.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:19:00.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:19:15.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:19:24.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:19:45.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:19:47.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:19:51.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:19:58.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:20:07.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
+[10Feb2025 05:20:07.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
+[10Feb2025 05:20:19.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:20:22.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:20:35.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:21:12.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:22:11.675] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Linda'/133, l='ServerLevel[pagdfgdfgdfg]', x=187.86, y=64.00, z=132.48] died, message: 'Linda was slain by Dara'
+[10Feb2025 05:22:11.675] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Linda'/133, l='ServerLevel[pagdfgdfgdfg]', x=187.86, y=64.00, z=132.48] died: Linda was slain by Dara
+[10Feb2025 05:22:11.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has completed the challenge [Friendly Fire!]
+[10Feb2025 05:22:15.697] [Worker-Main-26/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from graveyard.mixins.json into net.minecraft.server.level.WorldGenRegion
+[10Feb2025 05:22:15.698] [Worker-Main-26/DEBUG] [mixin/]: graveyard.mixins.json:WorldGenRegionAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[10Feb2025 05:22:48.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:23:19.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:25:07.223] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
+[10Feb2025 05:25:07.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
+[10Feb2025 05:27:04.585] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tony'/185, l='ServerLevel[pagdfgdfgdfg]', x=274.67, y=57.00, z=344.60] died, message: 'Tony was slain by Zombie'
+[10Feb2025 05:27:04.585] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Tony'/185, l='ServerLevel[pagdfgdfgdfg]', x=274.67, y=57.00, z=344.60] died: Tony was slain by Zombie
+[10Feb2025 05:27:10.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Player data reset.]
+[10Feb2025 05:30:08.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
+[10Feb2025 05:30:08.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
+[10Feb2025 05:30:39.860] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Meriel'/201, l='ServerLevel[pagdfgdfgdfg]', x=312.72, y=62.00, z=335.71] died, message: 'Meriel was slain by Zombie'
+[10Feb2025 05:30:39.860] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Meriel'/201, l='ServerLevel[pagdfgdfgdfg]', x=312.72, y=62.00, z=335.71] died: Meriel was slain by Zombie
+[10Feb2025 05:34:18.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[10Feb2025 05:34:30.716] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0leb2i590zoz3]: started parsing
+[10Feb2025 05:34:30.716] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0leb2i590zoz3]: Consuming argument ``
+[10Feb2025 05:34:31.248] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ao6bayvozxdk]: started parsing
+[10Feb2025 05:34:31.248] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ao6bayvozxdk]: Consuming argument `g`
+[10Feb2025 05:34:31.251] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kdf45g00dw01]: started parsing
+[10Feb2025 05:34:31.251] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kdf45g00dw01]: Consuming argument `gr`
+[10Feb2025 05:34:31.435] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1urvxcw05cvhp]: started parsing
+[10Feb2025 05:34:31.435] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1urvxcw05cvhp]: Consuming argument `gra`
+[10Feb2025 05:34:32.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bjras31fytpy]: started parsing
+[10Feb2025 05:34:32.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bjras31fytpy]: Consuming argument `gras`
+[10Feb2025 05:34:32.702] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09rh4fsxg3zpi]: started parsing
+[10Feb2025 05:34:32.702] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09rh4fsxg3zpi]: Consuming argument `grass`
+[10Feb2025 05:34:32.708] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09rh4fsxg3zpi]: Finished looking at arguments. Finalizing command.
+[10Feb2025 05:34:33.197] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10r2i1qsc4eix]: started parsing
+[10Feb2025 05:34:33.197] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10r2i1qsc4eix]: Consuming argument `grass_`
+[10Feb2025 05:34:33.589] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tcn6t039qvob]: started parsing
+[10Feb2025 05:34:33.589] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tcn6t039qvob]: Consuming argument `grass_b`
+[10Feb2025 05:34:33.682] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0arcty11avk66]: started parsing
+[10Feb2025 05:34:33.682] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0arcty11avk66]: Consuming argument `grass_bl`
+[10Feb2025 05:34:33.817] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p7a633svg9gc]: started parsing
+[10Feb2025 05:34:33.817] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p7a633svg9gc]: Consuming argument `grass_blo`
+[10Feb2025 05:34:33.937] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ty66hdyljs5j]: started parsing
+[10Feb2025 05:34:33.937] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ty66hdyljs5j]: Consuming argument `grass_bloc`
+[10Feb2025 05:34:34.036] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x4a9i66a7ru7]: started parsing
+[10Feb2025 05:34:34.036] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x4a9i66a7ru7]: Consuming argument `grass_block`
+[10Feb2025 05:34:34.036] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x4a9i66a7ru7]: Finished looking at arguments. Finalizing command.
+[10Feb2025 05:34:34.394] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1seh2fj06gibt]: started parsing
+[10Feb2025 05:34:34.394] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1seh2fj06gibt]: Consuming argument `grass_block`
+[10Feb2025 05:34:34.394] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1seh2fj06gibt]: Finished looking at arguments. Finalizing command.
+[10Feb2025 05:34:34.434] [Server thread/DEBUG] [com.sk89q.worldedit.world.registry.BundledBlockData/]: Using union:/workspaces/legendary-octo-umbrella/servidor_minecraft/mods/worldedit-mod-7.2.12.jar%23213!/com/sk89q/worldedit/world/registry/blocks.119.json for bundled block data.
+[10Feb2025 05:34:39.178] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pf8qmmt1h9xx]: started parsing
+[10Feb2025 05:34:39.178] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pf8qmmt1h9xx]: Consuming argument `grass_block`
+[10Feb2025 05:34:39.178] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pf8qmmt1h9xx]: Finished looking at arguments. Finalizing command.
+[10Feb2025 05:34:39.179] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tsj4c21w9jce]: started parsing
+[10Feb2025 05:34:39.179] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tsj4c21w9jce]: Consuming argument `grass_block`
+[10Feb2025 05:34:39.179] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tsj4c21w9jce]: Finished looking at arguments. Finalizing command.
+[10Feb2025 05:34:39.355] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xjc2tjb1i6tt]: started parsing
+[10Feb2025 05:34:39.355] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xjc2tjb1i6tt]: Consuming argument `grass_block`
+[10Feb2025 05:34:39.355] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xjc2tjb1i6tt]: Finished looking at arguments. Finalizing command.

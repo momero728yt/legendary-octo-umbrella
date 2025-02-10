@@ -15223,3 +15223,44 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 [10Feb2025 05:14:20.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
 [10Feb2025 05:14:22.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
 [10Feb2025 05:14:24.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:14:31.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:14:57.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Sweet Dreams]
+[10Feb2025 05:15:35.079] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Reamonn'/46, l='ServerLevel[pagdfgdfgdfg]', x=202.49, y=64.00, z=135.22] died, message: 'Reamonn was slain by Revenant'
+[10Feb2025 05:15:35.079] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Reamonn'/46, l='ServerLevel[pagdfgdfgdfg]', x=202.49, y=64.00, z=135.22] died: Reamonn was slain by Revenant
+[10Feb2025 05:17:14.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has completed the challenge [Monarch]
+[10Feb2025 05:17:31.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:17:33.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:17:50.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:17:53.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:18:20.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:18:22.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:18:37.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:18:38.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:18:52.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:18:53.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:18:53.627] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Patrick}[style={}] has been infected
+[10Feb2025 05:18:53.628] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Patrick'/187, l='ServerLevel[pagdfgdfgdfg]', x=269.64, y=66.00, z=296.28] died, message: 'Patrick was slain by Zombie'
+[10Feb2025 05:18:53.629] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Patrick'/187, l='ServerLevel[pagdfgdfgdfg]', x=269.64, y=66.00, z=296.28] died: Patrick was slain by Zombie
+[10Feb2025 05:18:57.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:19:00.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:19:15.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:19:24.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:19:45.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:19:47.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:19:51.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:19:58.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:20:19.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:20:22.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:20:35.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:21:12.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:22:11.675] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Linda'/133, l='ServerLevel[pagdfgdfgdfg]', x=187.86, y=64.00, z=132.48] died, message: 'Linda was slain by Dara'
+[10Feb2025 05:22:11.675] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Linda'/133, l='ServerLevel[pagdfgdfgdfg]', x=187.86, y=64.00, z=132.48] died: Linda was slain by Dara
+[10Feb2025 05:22:11.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has completed the challenge [Friendly Fire!]
+[10Feb2025 05:22:48.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:23:19.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:27:04.585] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tony'/185, l='ServerLevel[pagdfgdfgdfg]', x=274.67, y=57.00, z=344.60] died, message: 'Tony was slain by Zombie'
+[10Feb2025 05:27:04.585] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Tony'/185, l='ServerLevel[pagdfgdfgdfg]', x=274.67, y=57.00, z=344.60] died: Tony was slain by Zombie
+[10Feb2025 05:27:10.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Player data reset.]
+[10Feb2025 05:30:39.860] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Meriel'/201, l='ServerLevel[pagdfgdfgdfg]', x=312.72, y=62.00, z=335.71] died, message: 'Meriel was slain by Zombie'
+[10Feb2025 05:30:39.860] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Meriel'/201, l='ServerLevel[pagdfgdfgdfg]', x=312.72, y=62.00, z=335.71] died: Meriel was slain by Zombie
+[10Feb2025 05:34:18.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
