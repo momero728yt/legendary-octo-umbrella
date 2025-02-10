@@ -613,3 +613,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'jeg:hk_g36'
 [10Feb2025 03:45:38.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Boo!]
 [10Feb2025 03:46:08.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set the time to 1000]
 [10Feb2025 03:47:20.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Player data reset.]
+[10Feb2025 03:48:22.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Player data reset.]
+[10Feb2025 03:49:31.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Feb2025 03:49:31.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Feb2025 03:49:31.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Feb2025 03:49:31.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Feb2025 03:49:33.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pagdfgdfgdfg]'/minecraft:overworld
+[10Feb2025 03:49:33.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pagdfgdfgdfg]'/twilightforest:twilight_forest
+[10Feb2025 03:49:33.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pagdfgdfgdfg]'/minecraft:the_end
+[10Feb2025 03:49:33.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pagdfgdfgdfg]'/minecraft:the_nether
+[10Feb2025 03:49:33.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (PAJALAND): All chunks are saved
+[10Feb2025 03:49:33.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[10Feb2025 03:49:33.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Feb2025 03:49:33.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Feb2025 03:49:33.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10Feb2025 03:49:33.963] [Server thread/INFO] [Framework/]: Unloading server configs...

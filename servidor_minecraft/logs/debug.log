@@ -4868,3 +4868,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'jeg:hk_g36'
 [10Feb2025 03:46:19.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
 [10Feb2025 03:46:19.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
 [10Feb2025 03:47:20.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Player data reset.]
+[10Feb2025 03:48:22.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Player data reset.]
+[10Feb2025 03:49:31.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Feb2025 03:49:31.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Feb2025 03:49:31.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Feb2025 03:49:31.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Feb2025 03:49:33.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pagdfgdfgdfg]'/minecraft:overworld
+[10Feb2025 03:49:33.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pagdfgdfgdfg]'/twilightforest:twilight_forest
+[10Feb2025 03:49:33.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pagdfgdfgdfg]'/minecraft:the_end
+[10Feb2025 03:49:33.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pagdfgdfgdfg]'/minecraft:the_nether
+[10Feb2025 03:49:33.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
+[10Feb2025 03:49:33.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
+[10Feb2025 03:49:33.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (PAJALAND): All chunks are saved
+[10Feb2025 03:49:33.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[10Feb2025 03:49:33.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Feb2025 03:49:33.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Feb2025 03:49:33.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10Feb2025 03:49:33.963] [Server thread/INFO] [Framework/]: Unloading server configs...
+[10Feb2025 03:49:33.963] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./PAJALAND/serverconfig
+[10Feb2025 03:49:33.963] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[10Feb2025 03:49:33.964] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file jei-server.toml changed, sending notifies
+[10Feb2025 03:49:33.964] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file jei-server.toml changed, sending notifies
