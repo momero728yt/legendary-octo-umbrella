@@ -4799,3 +4799,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'jeg:hk_g36'
 [10Feb2025 02:56:19.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
 [10Feb2025 02:56:28.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
 [10Feb2025 02:56:36.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 02:57:55.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Quest: Pirate Knight]
+[10Feb2025 03:01:19.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
+[10Feb2025 03:01:19.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
+[10Feb2025 03:02:09.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 03:02:11.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 03:06:19.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
+[10Feb2025 03:06:19.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
+[10Feb2025 03:08:24.908] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Riobeard'/39000, l='ServerLevel[pagdfgdfgdfg]', x=259.57, y=81.00, z=258.49] died, message: 'Riobeard was slain by Sofx0Loder'
+[10Feb2025 03:08:30.453] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Morry'/39007, l='ServerLevel[pagdfgdfgdfg]', x=266.83, y=82.00, z=251.08] died, message: 'Morry was slain by Sofx0Loder'
+[10Feb2025 03:11:19.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
+[10Feb2025 03:11:19.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
+[10Feb2025 03:16:19.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
+[10Feb2025 03:16:19.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg

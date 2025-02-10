@@ -1319,6 +1319,12 @@
     },
     "done": true
   },
+  "knight_quest:kq_pirate_quest_1": {
+    "criteria": {
+      "kq_pirate_quest_1": "2025-02-10 02:57:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-09 21:07:20 +0000"
