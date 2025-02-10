@@ -245,15 +245,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2025-02-10 02:39:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-10 02:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-02-10 02:39:10 +0000"
     },
     "done": true
   },
@@ -971,15 +971,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2025-02-10 02:39:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-10 02:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-02-10 02:39:10 +0000"
     },
     "done": true
   },
@@ -1475,15 +1475,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2025-02-10 02:08:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-02-10 01:57:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:08:06 +0000"
     },
     "done": true
   },
@@ -1767,6 +1767,12 @@
     "criteria": {
       "give_recipe": "2025-02-09 23:42:37 +0000",
       "has_block": "2025-02-09 23:42:37 +0000"
+    },
+    "done": true
+  },
+  "knight_quest:kq_quest_build_first_armor": {
+    "criteria": {
+      "kq_quest_build_first_armor": "2025-02-10 02:54:48 +0000"
     },
     "done": true
   },
@@ -2112,15 +2118,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2025-02-10 02:39:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/yellow_carpet": {
     "criteria": {
       "has_yellow_wool": "2025-02-10 01:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-02-10 02:39:10 +0000"
     },
     "done": true
   },
