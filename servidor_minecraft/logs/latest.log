@@ -15264,3 +15264,26 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 [10Feb2025 05:30:39.860] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Meriel'/201, l='ServerLevel[pagdfgdfgdfg]', x=312.72, y=62.00, z=335.71] died, message: 'Meriel was slain by Zombie'
 [10Feb2025 05:30:39.860] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Meriel'/201, l='ServerLevel[pagdfgdfgdfg]', x=312.72, y=62.00, z=335.71] died: Meriel was slain by Zombie
 [10Feb2025 05:34:18.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[10Feb2025 05:34:49.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[10Feb2025 05:35:58.791] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mary'/101, l='ServerLevel[pagdfgdfgdfg]', x=260.60, y=72.00, z=262.10] died, message: 'Mary was slain by Frenzied Knight'
+[10Feb2025 05:35:58.792] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Mary'/101, l='ServerLevel[pagdfgdfgdfg]', x=260.60, y=72.00, z=262.10] died: Mary was slain by Frenzied Knight
+[10Feb2025 05:36:10.183] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Charlotte'/7619, l='ServerLevel[pagdfgdfgdfg]', x=259.74, y=72.00, z=261.28] died, message: 'Charlotte was slain by Frenzied Knight'
+[10Feb2025 05:36:13.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:36:26.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:37:15.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set the time to 1000]
+[10Feb2025 05:38:24.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Feb2025 05:38:24.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Feb2025 05:38:24.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Feb2025 05:38:24.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder lost connection: Server closed
+[10Feb2025 05:38:24.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder left the game
+[10Feb2025 05:38:24.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Feb2025 05:38:27.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pagdfgdfgdfg]'/minecraft:overworld
+[10Feb2025 05:38:27.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pagdfgdfgdfg]'/minecraft:the_nether
+[10Feb2025 05:38:27.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pagdfgdfgdfg]'/minecraft:the_end
+[10Feb2025 05:38:27.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pagdfgdfgdfg]'/twilightforest:twilight_forest
+[10Feb2025 05:38:27.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (PAJALAND): All chunks are saved
+[10Feb2025 05:38:27.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Feb2025 05:38:27.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Feb2025 05:38:27.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[10Feb2025 05:38:27.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10Feb2025 05:38:27.696] [Server thread/INFO] [Framework/]: Unloading server configs...
