@@ -15186,3 +15186,17 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 [10Feb2025 04:49:57.224] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Yvonne'/240, l='ServerLevel[pagdfgdfgdfg]', x=275.52, y=68.00, z=278.74] died: Yvonne was slain by Zombie
 [10Feb2025 04:50:30.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
 [10Feb2025 04:51:27.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 04:54:12.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 04:54:43.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 04:57:40.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 04:57:55.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:01:19.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Noble]
+[10Feb2025 05:01:52.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:01:59.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:02:37.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:02:43.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:03:13.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 05:03:17.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 05:03:26.427] [Server thread/INFO] [forge.net.mca.MCA/]: literal{William}[style={}] has been infected
+[10Feb2025 05:03:30.825] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['William'/243, l='ServerLevel[pagdfgdfgdfg]', x=317.49, y=68.50, z=288.71] died, message: 'William was slain by Husk'
+[10Feb2025 05:03:30.826] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['William'/243, l='ServerLevel[pagdfgdfgdfg]', x=317.49, y=68.50, z=288.71] died: William was slain by Husk
